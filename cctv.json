@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T11:58:38+07:00",
+ "updated_at": "2026-10-22T19:01:47+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -4539,6 +4539,13 @@
      "stream": "https://pelindung.bandung.go.id:3443/video/DISHUB/spsriwijaya.m3u8",
      "lat": -6.93789,
      "lon": 107.612768
+    },
+    {
+     "nama": "SP SULANJANA",
+     "lokasi": "Kota Bandung",
+     "stream": "https://pelindung.bandung.go.id:3443/video/DISHUB/spsulanjana.m3u8",
+     "lat": -6.900167,
+     "lon": 107.612457
     },
     {
      "nama": "SP SUMATRA-JAWA",
