@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-22T02:24:50+07:00",
- "total_kamera": 7702,
+ "updated_at": "2026-11-22T14:00:17+07:00",
+ "total_kamera": 7513,
  "sumber_gagal": [
   "BPJT: tidak bisa dijangkau (koneksi ditutup server)",
   "Kemenhub: tidak bisa dijangkau",
@@ -12,49 +12,49 @@
  ],
  "ringkasan": {
   "per_pulau": {
-   "Jawa": 5396,
-   "Sumatera": 1383,
-   "Kalimantan": 393,
-   "Sulawesi": 247,
-   "Bali": 108,
-   "Nusa Tenggara": 90,
+   "Jawa": 5312,
+   "Sumatera": 1327,
+   "Kalimantan": 388,
+   "Sulawesi": 237,
+   "Nusa Tenggara": 89,
+   "Bali": 75,
    "Papua": 46,
    "Maluku": 37,
    "Nasional": 2
   },
   "per_provinsi": {
-   "Jawa Barat": 1412,
-   "DKI Jakarta": 1408,
-   "Jawa Timur": 1314,
-   "Jawa Tengah": 883,
-   "Sumatera Utara": 372,
-   "Sumatera Barat": 252,
-   "Lampung": 245,
-   "Banten": 199,
-   "Kalimantan Selatan": 191,
-   "DI Yogyakarta": 180,
-   "Aceh": 148,
-   "Sumatera Selatan": 136,
-   "Bali": 108,
-   "Sulawesi Selatan": 86,
-   "Kalimantan Timur": 77,
+   "Jawa Barat": 1409,
+   "DKI Jakarta": 1406,
+   "Jawa Timur": 1295,
+   "Jawa Tengah": 839,
+   "Sumatera Utara": 374,
+   "Sumatera Barat": 255,
+   "Lampung": 250,
+   "Banten": 200,
+   "Kalimantan Selatan": 192,
+   "DI Yogyakarta": 163,
+   "Sumatera Selatan": 119,
+   "Aceh": 102,
+   "Sulawesi Selatan": 81,
+   "Kalimantan Timur": 76,
+   "Bali": 75,
    "Riau": 74,
    "Kalimantan Barat": 67,
    "Jambi": 66,
-   "Sulawesi Utara": 64,
+   "Sulawesi Utara": 58,
    "Papua": 46,
-   "Nusa Tenggara Barat": 45,
    "Nusa Tenggara Timur": 45,
-   "Kalimantan Tengah": 43,
+   "Nusa Tenggara Barat": 44,
+   "Kalimantan Tengah": 40,
    "Kepulauan Riau": 39,
    "Maluku": 37,
-   "Sulawesi Tengah": 35,
-   "Sulawesi Tenggara": 33,
+   "Sulawesi Tengah": 32,
+   "Sulawesi Tenggara": 32,
    "Bengkulu": 29,
-   "Kepulauan Bangka Belitung": 22,
    "Gorontalo": 20,
-   "Kalimantan Utara": 15,
-   "Sulawesi Barat": 9,
+   "Kepulauan Bangka Belitung": 19,
+   "Sulawesi Barat": 14,
+   "Kalimantan Utara": 13,
    "Lainnya": 2
   }
  },
@@ -228,17 +228,6 @@
    "sumber": "CCTV Nusantara",
    "kamera": [
     {
-     "nama": "B Salatin 10 PTZ (Kecamatan Baiturrahman - Kampung Baru)",
-     "lokasi": "B Salatin 10 PTZ (Kecamatan Baiturrahman - Kampung Baru) (Kota Banda Aceh)",
-     "stream": "",
-     "lat": 5.5502,
-     "lon": 95.3174,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "banda-aceh-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=banda-aceh-bdh-78"
-    },
-    {
      "nama": "B Salatin 8 PTZ (Kecamatan Baiturrahman - Kampung Baru)",
      "lokasi": "B Salatin 8 PTZ (Kecamatan Baiturrahman - Kampung Baru) (Kota Banda Aceh)",
      "stream": "",
@@ -248,28 +237,6 @@
      "kategori": "jalan",
      "sumber": "banda-aceh-cctv",
      "tautan": "https://cctvnusantara.com/embed?cam=banda-aceh-bdh-72"
-    },
-    {
-     "nama": "Bustanussalatin 11 (Kecamatan Baiturrahman - Kampung Baru)",
-     "lokasi": "Bustanussalatin 11 (Kecamatan Baiturrahman - Kampung Baru) (Kota Banda Aceh)",
-     "stream": "",
-     "lat": 5.549001968625173,
-     "lon": 95.31691856823845,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "banda-aceh-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=banda-aceh-bdh-17"
-    },
-    {
-     "nama": "Bustanussalatin 12 (Kecamatan Baiturrahman - Kampung Baru)",
-     "lokasi": "Bustanussalatin 12 (Kecamatan Baiturrahman - Kampung Baru) (Kota Banda Aceh)",
-     "stream": "",
-     "lat": 5.549168390760624,
-     "lon": 95.31726404484482,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "banda-aceh-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=banda-aceh-bdh-18"
     },
     {
      "nama": "Bustanussalatin 2 (Kecamatan Baiturrahman - Kampung Baru)",
@@ -325,17 +292,6 @@
      "kategori": "jalan",
      "sumber": "banda-aceh-cctv",
      "tautan": "https://cctvnusantara.com/embed?cam=banda-aceh-bdh-12"
-    },
-    {
-     "nama": "Bustanussalatin 9 (Kecamatan Baiturrahman - Kampung Baru)",
-     "lokasi": "Bustanussalatin 9 (Kecamatan Baiturrahman - Kampung Baru) (Kota Banda Aceh)",
-     "stream": "",
-     "lat": 5.550222526718097,
-     "lon": 95.31737324454738,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "banda-aceh-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=banda-aceh-bdh-43"
     },
     {
      "nama": "Dedalu 1",
@@ -657,191 +613,37 @@
      "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-264832902525585051380931"
     },
     {
-     "nama": "MS BLANGPIDIE - PTSP",
-     "lokasi": "MS BLANGPIDIE (Kabupaten Aceh Barat Daya)",
+     "nama": "MS BLANGKAJEREN - KANTIN/MUSHOLA/HALAMAN PARKIR",
+     "lokasi": "MS BLANGKAJEREN (Kabupaten Gayo Lues)",
      "stream": "",
-     "lat": 3.754984,
-     "lon": 96.836438,
+     "lat": 3.9881,
+     "lon": 97.3413,
      "tipe": "hls",
      "kategori": "pengadilan",
      "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-481354097058198010403560"
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-739739464108515463018617"
     },
     {
-     "nama": "MS BLANGPIDIE - RUANG TUNGGU SIDANG",
-     "lokasi": "MS BLANGPIDIE (Kabupaten Aceh Barat Daya)",
+     "nama": "MS BLANGKAJEREN - PTSP",
+     "lokasi": "MS BLANGKAJEREN (Kabupaten Gayo Lues)",
      "stream": "",
-     "lat": 3.753119,
-     "lon": 96.839061,
+     "lat": 3.9877,
+     "lon": 97.3409,
      "tipe": "hls",
      "kategori": "pengadilan",
      "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-364904626191593998044874"
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-467312688390792228269736"
     },
     {
-     "nama": "MS CALANG - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "MS CALANG (Kabupaten Aceh Jaya)",
+     "nama": "MS BLANGKAJEREN - RUANG TUNGGU SIDANG",
+     "lokasi": "MS BLANGKAJEREN (Kabupaten Gayo Lues)",
      "stream": "",
-     "lat": 4.632031,
-     "lon": 95.576129,
+     "lat": 3.9879,
+     "lon": 97.3411,
      "tipe": "hls",
      "kategori": "pengadilan",
      "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-177739339251449341258112"
-    },
-    {
-     "nama": "MS CALANG - PTSP",
-     "lokasi": "MS CALANG (Kabupaten Aceh Jaya)",
-     "stream": "",
-     "lat": 4.63524,
-     "lon": 95.579018,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-264463512833844060441604"
-    },
-    {
-     "nama": "MS CALANG - RUANG TUNGGU SIDANG",
-     "lokasi": "MS CALANG (Kabupaten Aceh Jaya)",
-     "stream": "",
-     "lat": 4.634073,
-     "lon": 95.576383,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-175605295218636133181833"
-    },
-    {
-     "nama": "MS IDI - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "MS IDI (Kabupaten Aceh Timur)",
-     "stream": "",
-     "lat": 4.957118,
-     "lon": 97.770737,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-015017391938576153048881"
-    },
-    {
-     "nama": "MS IDI - PTSP",
-     "lokasi": "MS IDI (Kabupaten Aceh Timur)",
-     "stream": "",
-     "lat": 4.955302,
-     "lon": 97.771266,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-812998806767444788354176"
-    },
-    {
-     "nama": "MS IDI - RUANG TUNGGU SIDANG",
-     "lokasi": "MS IDI (Kabupaten Aceh Timur)",
-     "stream": "",
-     "lat": 4.956974,
-     "lon": 97.773889,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-281233041448921298721202"
-    },
-    {
-     "nama": "MS JANTHO - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "MS JANTHO (Kabupaten Aceh Besar)",
-     "stream": "https://msjantho.cctvbadilag2.my.id/402607MSJANTHO/play.html?name=651990540324923141074136",
-     "lat": 5.29007,
-     "lon": 95.617874,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-651990540324923141074136"
-    },
-    {
-     "nama": "MS JANTHO - PTSP",
-     "lokasi": "MS JANTHO (Kabupaten Aceh Besar)",
-     "stream": "https://msjantho.cctvbadilag2.my.id/402607MSJANTHO/play.html?name=141952801729039231975430",
-     "lat": 5.288924,
-     "lon": 95.617982,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-141952801729039231975430"
-    },
-    {
-     "nama": "MS JANTHO - RUANG TUNGGU SIDANG",
-     "lokasi": "MS JANTHO (Kabupaten Aceh Besar)",
-     "stream": "https://msjantho.cctvbadilag2.my.id/402607MSJANTHO/play.html?name=273952279036212119731963",
-     "lat": 5.291435,
-     "lon": 95.616626,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-273952279036212119731963"
-    },
-    {
-     "nama": "MS KOTA SUBULUSSALAM - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "MS KOTA SUBULUSSALAM (Kota Subulussalam)",
-     "stream": "",
-     "lat": 2.641396,
-     "lon": 98.003742,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-018619630762748339602130"
-    },
-    {
-     "nama": "MS KOTA SUBULUSSALAM - PTSP",
-     "lokasi": "MS KOTA SUBULUSSALAM (Kota Subulussalam)",
-     "stream": "",
-     "lat": 2.64222,
-     "lon": 98.004524,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-336802725764886457911319"
-    },
-    {
-     "nama": "MS KOTA SUBULUSSALAM - RUANG TUNGGU SIDANG",
-     "lokasi": "MS KOTA SUBULUSSALAM (Kota Subulussalam)",
-     "stream": "",
-     "lat": 2.639634,
-     "lon": 98.005227,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-753843107780171864581640"
-    },
-    {
-     "nama": "MS KUALA SIMPANG - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "MS KUALA SIMPANG (Kabupaten Aceh Tamiang)",
-     "stream": "",
-     "lat": 4.2837,
-     "lon": 98.0504,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-168846844478859690455854"
-    },
-    {
-     "nama": "MS KUALA SIMPANG - PTSP",
-     "lokasi": "MS KUALA SIMPANG (Kabupaten Aceh Tamiang)",
-     "stream": "",
-     "lat": 4.2833,
-     "lon": 98.05,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-623845941877319150383463"
-    },
-    {
-     "nama": "MS KUALA SIMPANG - RUANG TUNGGU SIDANG",
-     "lokasi": "MS KUALA SIMPANG (Kabupaten Aceh Tamiang)",
-     "stream": "",
-     "lat": 4.2835,
-     "lon": 98.0502,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-564141788254313718043689"
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-367156777295828474548407"
     },
     {
      "nama": "MS KUTACANE - KANTIN/MUSHOLA/HALAMAN PARKIR",
@@ -1040,259 +842,6 @@
      "kategori": "pengadilan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-641910960040265319494740"
-    },
-    {
-     "nama": "MS SABANG - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "MS SABANG (Kota Sabang)",
-     "stream": "https://mssabang.cctvbadilag2.my.id/401602MSSABANG/play.html?name=243683548816418934381525",
-     "lat": 5.895403,
-     "lon": 95.316527,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-243683548816418934381525"
-    },
-    {
-     "nama": "MS SABANG - PTSP",
-     "lokasi": "MS SABANG (Kota Sabang)",
-     "stream": "",
-     "lat": 5.893256,
-     "lon": 95.318744,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-305119140495604055553669"
-    },
-    {
-     "nama": "MS SABANG - RUANG TUNGGU SIDANG",
-     "lokasi": "MS SABANG (Kota Sabang)",
-     "stream": "",
-     "lat": 5.892519,
-     "lon": 95.31505,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-650608831070519174631077"
-    },
-    {
-     "nama": "MS SIGLI - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "MS SIGLI (Kabupaten Pidie)",
-     "stream": "https://mssigli.cctvbadilag3.my.id/401611MSSIGLI/play.html?name=286051077518570826412965",
-     "lat": 5.384862,
-     "lon": 95.963353,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-286051077518570826412965"
-    },
-    {
-     "nama": "MS SIGLI - PTSP",
-     "lokasi": "MS SIGLI (Kabupaten Pidie)",
-     "stream": "https://mssigli.cctvbadilag3.my.id/401611MSSIGLI/play.html?name=061829575716166207941394",
-     "lat": 5.382636,
-     "lon": 95.961606,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-061829575716166207941394"
-    },
-    {
-     "nama": "MS SIGLI - RUANG TUNGGU SIDANG",
-     "lokasi": "MS SIGLI (Kabupaten Pidie)",
-     "stream": "https://mssigli.cctvbadilag3.my.id/401611MSSIGLI/play.html?name=883092044628581792410071",
-     "lat": 5.385561,
-     "lon": 95.959718,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-883092044628581792410071"
-    },
-    {
-     "nama": "MS SIMPANG TIGA REDELONG - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "MS SIMPANG TIGA REDELONG (Kabupaten Bener Meriah)",
-     "stream": "",
-     "lat": 4.71688,
-     "lon": 96.869098,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-854475830022921380946001"
-    },
-    {
-     "nama": "MS SIMPANG TIGA REDELONG - PTSP",
-     "lokasi": "MS SIMPANG TIGA REDELONG (Kabupaten Bener Meriah)",
-     "stream": "",
-     "lat": 4.718524,
-     "lon": 96.867529,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-557600514740037476224238"
-    },
-    {
-     "nama": "MS SIMPANG TIGA REDELONG - RUANG TUNGGU SIDANG",
-     "lokasi": "MS SIMPANG TIGA REDELONG (Kabupaten Bener Meriah)",
-     "stream": "",
-     "lat": 4.717291,
-     "lon": 96.864628,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-205781117138520142278647"
-    },
-    {
-     "nama": "MS SINABANG - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "MS SINABANG (Kabupaten Simeulue)",
-     "stream": "",
-     "lat": 2.43,
-     "lon": 96.39,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-513572972135653816226886"
-    },
-    {
-     "nama": "MS SINABANG - PTSP",
-     "lokasi": "MS SINABANG (Kabupaten Simeulue)",
-     "stream": "",
-     "lat": 2.43,
-     "lon": 96.39,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-882772837957524875501590"
-    },
-    {
-     "nama": "MS SINABANG - RUANG TUNGGU SIDANG",
-     "lokasi": "MS SINABANG (Kabupaten Simeulue)",
-     "stream": "",
-     "lat": 2.43,
-     "lon": 96.39,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-261079357147533359243021"
-    },
-    {
-     "nama": "MS SINGKIL - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "MS SINGKIL (Kabupaten Aceh Singkil)",
-     "stream": "",
-     "lat": 2.29,
-     "lon": 97.79,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-012870872428898728093906"
-    },
-    {
-     "nama": "MS SINGKIL - PTSP",
-     "lokasi": "MS SINGKIL (Kabupaten Aceh Singkil)",
-     "stream": "",
-     "lat": 2.29,
-     "lon": 97.79,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-978391566199732755526751"
-    },
-    {
-     "nama": "MS SINGKIL - RUANG TUNGGU SIDANG",
-     "lokasi": "MS SINGKIL (Kabupaten Aceh Singkil)",
-     "stream": "",
-     "lat": 2.29,
-     "lon": 97.79,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-889722810228529052283944"
-    },
-    {
-     "nama": "MS SUKA MAKMUE - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "MS SUKA MAKMUE (Kabupaten Nagan Raya)",
-     "stream": "https://mssukamakmue.cctvbadilag.my.id/401966MSSUKAMAKMUE/play.html?name=945028646919535916412148",
-     "lat": 4.168168,
-     "lon": 96.302265,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-945028646919535916412148"
-    },
-    {
-     "nama": "MS SUKA MAKMUE - PTSP",
-     "lokasi": "MS SUKA MAKMUE (Kabupaten Nagan Raya)",
-     "stream": "https://mssukamakmue.cctvbadilag.my.id/401966MSSUKAMAKMUE/play.html?name=573901818517265243662610",
-     "lat": 4.168064,
-     "lon": 96.300063,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-573901818517265243662610"
-    },
-    {
-     "nama": "MS SUKA MAKMUE - RUANG TUNGGU SIDANG",
-     "lokasi": "MS SUKA MAKMUE (Kabupaten Nagan Raya)",
-     "stream": "https://mssukamakmue.cctvbadilag.my.id/401966MSSUKAMAKMUE/play.html?name=605520032629079984991806",
-     "lat": 4.167238,
-     "lon": 96.298052,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-605520032629079984991806"
-    },
-    {
-     "nama": "MS TAKENGON - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "MS TAKENGON (Kabupaten Aceh Tengah)",
-     "stream": "https://mstakengon.cctvbadilag3.my.id/401658MSTAKENGON/play.html?name=449596969992512003804004",
-     "lat": 4.628622,
-     "lon": 96.843579,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-449596969992512003804004"
-    },
-    {
-     "nama": "MS TAKENGON - PTSP",
-     "lokasi": "MS TAKENGON (Kabupaten Aceh Tengah)",
-     "stream": "https://mstakengon.cctvbadilag3.my.id/401658MSTAKENGON/play.html?name=243242607442536385822848",
-     "lat": 4.631617,
-     "lon": 96.84578,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-243242607442536385822848"
-    },
-    {
-     "nama": "MS TAKENGON - RUANG TUNGGU SIDANG",
-     "lokasi": "MS TAKENGON (Kabupaten Aceh Tengah)",
-     "stream": "https://mstakengon.cctvbadilag3.my.id/401658MSTAKENGON/play.html?name=540295801418541731938759",
-     "lat": 4.631479,
-     "lon": 96.843444,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-540295801418541731938759"
-    },
-    {
-     "nama": "MS TAPAK TUAN - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "MS TAPAK TUAN (Kabupaten Aceh Selatan)",
-     "stream": "",
-     "lat": 3.2577,
-     "lon": 97.1806,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-057005097589520294736096"
-    },
-    {
-     "nama": "MS TAPAK TUAN - PTSP",
-     "lokasi": "MS TAPAK TUAN (Kabupaten Aceh Selatan)",
-     "stream": "",
-     "lat": 3.2573,
-     "lon": 97.1802,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-891969345988308218818106"
     },
     {
      "nama": "MS TAPAK TUAN - RUANG TUNGGU SIDANG",
@@ -1524,61 +1073,6 @@
      "kategori": "tol",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=hk-sibanceh-878733251736419970004266"
-    },
-    {
-     "nama": "Tol SIBANCEH KM 52+525 A",
-     "lokasi": "Jalan Tol Sigli - Banda Aceh (SIBANCEH KM 52+525 A), Aceh, Aceh",
-     "stream": "",
-     "lat": 5.467282555725825,
-     "lon": 95.56754680254632,
-     "tipe": "hls",
-     "kategori": "tol",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=hk-sibanceh-940843787531059645401667"
-    },
-    {
-     "nama": "Tol SIBANCEH KM 52+525 B",
-     "lokasi": "Jalan Tol Sigli - Banda Aceh (SIBANCEH KM 52+525 B), Aceh, Aceh",
-     "stream": "",
-     "lat": 5.445892096334934,
-     "lon": 95.53660515335434,
-     "tipe": "hls",
-     "kategori": "tol",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=hk-sibanceh-915164900958978341731462"
-    },
-    {
-     "nama": "Tol SIBANCEH KM 53+525 A",
-     "lokasi": "Jalan Tol Sigli - Banda Aceh (SIBANCEH KM 53+525 A), Aceh, Aceh",
-     "stream": "",
-     "lat": 5.463112420066794,
-     "lon": 95.5353115115338,
-     "tipe": "hls",
-     "kategori": "tol",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=hk-sibanceh-859865643176420442101693"
-    },
-    {
-     "nama": "Tol SIBANCEH KM 53+525 B",
-     "lokasi": "Jalan Tol Sigli - Banda Aceh (SIBANCEH KM 53+525 B), Aceh, Aceh",
-     "stream": "",
-     "lat": 5.450785318883803,
-     "lon": 95.54708769026064,
-     "tipe": "hls",
-     "kategori": "tol",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=hk-sibanceh-239055173843540589936055"
-    },
-    {
-     "nama": "Tol SIBANCEH KM 54+525 A",
-     "lokasi": "Jalan Tol Sigli - Banda Aceh (SIBANCEH KM 54+525 A), Aceh, Aceh",
-     "stream": "",
-     "lat": 5.451341173559527,
-     "lon": 95.531438000746,
-     "tipe": "hls",
-     "kategori": "tol",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=hk-sibanceh-543394507304380705725146"
     },
     {
      "nama": "Tol SIBANCEH KM 54+525 B",
@@ -2787,37 +2281,37 @@
    "sumber": "CCTV Nusantara",
    "kamera": [
     {
-     "nama": "CCTV Halaman Gedung Nasional 2",
-     "lokasi": "CCTV Halaman Gedung Nasional 2, Kabupaten Belitung, Kepulauan Bangka Belitung",
+     "nama": "CCTV Pantai Wisata Tanjung Pendam",
+     "lokasi": "CCTV Pantai Wisata Tanjung Pendam, Kabupaten Belitung, Kepulauan Bangka Belitung",
      "stream": "",
-     "lat": -2.7440829,
-     "lon": 107.6365114,
+     "lat": -2.7434185,
+     "lon": 107.6244209,
      "tipe": "hls",
-     "kategori": "publik",
+     "kategori": "wisata",
      "sumber": "Portal CCTV Pemda Kabupaten Belitung",
-     "tautan": "https://cctvnusantara.com/embed?cam=belitung-cctv-pemda-45"
+     "tautan": "https://cctvnusantara.com/embed?cam=belitung-cctv-pemda-21"
     },
     {
-     "nama": "CCTV Kantor Dekranasda",
-     "lokasi": "CCTV Kantor Dekranasda, Kabupaten Belitung, Kepulauan Bangka Belitung",
+     "nama": "CCTV Pasar Tanjungpandan/Jl. Kimting",
+     "lokasi": "CCTV Pasar Tanjungpandan/Jl. Kimting, Kabupaten Belitung, Kepulauan Bangka Belitung",
      "stream": "",
-     "lat": -2.7427166,
-     "lon": 107.6333156,
+     "lat": -2.7430873,
+     "lon": 107.6318229,
      "tipe": "hls",
      "kategori": "publik",
      "sumber": "Portal CCTV Pemda Kabupaten Belitung",
-     "tautan": "https://cctvnusantara.com/embed?cam=belitung-cctv-pemda-46"
+     "tautan": "https://cctvnusantara.com/embed?cam=belitung-cctv-pemda-11"
     },
     {
-     "nama": "CCTV RSUD Marsidi Judono (Loket)",
-     "lokasi": "CCTV RSUD Marsidi Judono (Loket), Kabupaten Belitung, Kepulauan Bangka Belitung",
+     "nama": "CCTV Simpang 4 Sijuk",
+     "lokasi": "CCTV Simpang 4 Sijuk, Kabupaten Belitung, Kepulauan Bangka Belitung",
      "stream": "",
-     "lat": -2.749996,
-     "lon": 107.678365,
+     "lat": -2.5815248,
+     "lon": 107.773486,
      "tipe": "hls",
      "kategori": "publik",
      "sumber": "Portal CCTV Pemda Kabupaten Belitung",
-     "tautan": "https://cctvnusantara.com/embed?cam=belitung-cctv-pemda-30"
+     "tautan": "https://cctvnusantara.com/embed?cam=belitung-cctv-pemda-26"
     },
     {
      "nama": "CCTV Simpang Kerjan",
@@ -2831,48 +2325,15 @@
      "tautan": "https://cctvnusantara.com/embed?cam=belitung-cctv-pemda-23"
     },
     {
-     "nama": "CCTV Simpang Masjid Al Mabrur",
-     "lokasi": "CCTV Simpang Masjid Al Mabrur (Kabupaten Belitung)",
+     "nama": "CCTV Traffic Light Jl. Pemuda",
+     "lokasi": "CCTV Traffic Light Jl. Pemuda, Kabupaten Belitung, Kepulauan Bangka Belitung",
      "stream": "",
-     "lat": -2.7413406,
-     "lon": 107.6377582,
+     "lat": -2.7442555,
+     "lon": 107.6648667,
      "tipe": "hls",
      "kategori": "publik",
      "sumber": "Portal CCTV Pemda Kabupaten Belitung",
-     "tautan": "https://cctvnusantara.com/embed?cam=belitung-cctv-pemda-43"
-    },
-    {
-     "nama": "CCTV Simpang PKM Air Saga",
-     "lokasi": "CCTV Simpang PKM Air Saga (Kabupaten Belitung)",
-     "stream": "",
-     "lat": -2.7233602,
-     "lon": 107.6300461,
-     "tipe": "hls",
-     "kategori": "publik",
-     "sumber": "Portal CCTV Pemda Kabupaten Belitung",
-     "tautan": "https://cctvnusantara.com/embed?cam=belitung-cctv-pemda-50"
-    },
-    {
-     "nama": "CCTV Traffic Light Pangkallalang",
-     "lokasi": "CCTV Traffic Light Pangkallalang, Kabupaten Belitung, Kepulauan Bangka Belitung",
-     "stream": "",
-     "lat": -2.7451235,
-     "lon": 107.6445311,
-     "tipe": "hls",
-     "kategori": "publik",
-     "sumber": "Portal CCTV Pemda Kabupaten Belitung",
-     "tautan": "https://cctvnusantara.com/embed?cam=belitung-cctv-pemda-9"
-    },
-    {
-     "nama": "CCTV Traffic Light Rahat",
-     "lokasi": "CCTV Traffic Light Rahat (Kabupaten Belitung)",
-     "stream": "",
-     "lat": -2.7384417,
-     "lon": 107.6380455,
-     "tipe": "hls",
-     "kategori": "publik",
-     "sumber": "Portal CCTV Pemda Kabupaten Belitung",
-     "tautan": "https://cctvnusantara.com/embed?cam=belitung-cctv-pemda-41"
+     "tautan": "https://cctvnusantara.com/embed?cam=belitung-cctv-pemda-12"
     },
     {
      "nama": "PA. MENTOK - KANTIN/MUSHOLA/HALAMAN PARKIR",
@@ -4111,6 +3572,17 @@
      "tautan": "https://cctvnusantara.com/embed?cam=volcano-krakatau-sertung-selatan"
     },
     {
+     "nama": "Depan Kantor Kesbang",
+     "lokasi": "Depan Kantor Kesbang, Kota Metro, Lampung",
+     "stream": "",
+     "lat": -5.1113733659649,
+     "lon": 105.30462143774,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=metro-depan-kantor-kesbang"
+    },
+    {
      "nama": "Lapangan Sawah Brebes",
      "lokasi": "Jalan Sri Kresna, Gunung Sari, Bandar Lampung, Lampung, 35121, Indonesia",
      "stream": "",
@@ -4527,6 +3999,17 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=metro-pasar-cendrawasih"
+    },
+    {
+     "nama": "Perbatasan Metro Punggur",
+     "lokasi": "Perbatasan Metro Punggur, Kota Metro, Lampung",
+     "stream": "",
+     "lat": -5.0812303129459,
+     "lon": 105.28390807813,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=metro-perbatasan-metro-punggur"
     },
     {
      "nama": "Pertigaan BPKAD-Pasar Shoping",
@@ -5926,6 +5409,17 @@
      "tautan": "https://cctvnusantara.com/embed?cam=polresta-lampung-105"
     },
     {
+     "nama": "Simpang Kampus",
+     "lokasi": "Simpang Kampus, Kota Metro, Lampung",
+     "stream": "",
+     "lat": -5.1193889014938,
+     "lon": 105.31958624174,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=metro-simpang-kampus"
+    },
+    {
      "nama": "Simpang RSUD A. Yani",
      "lokasi": "Simpang RSUD A. Yani, Kota Metro, Lampung",
      "stream": "",
@@ -6187,6 +5681,17 @@
      "tautan": "https://cctvnusantara.com/embed?cam=metrokota-29"
     },
     {
+     "nama": "Traffic Light Margorejo",
+     "lokasi": "Traffic Light Margorejo, Kota Metro, Lampung",
+     "stream": "",
+     "lat": -5.137227500802,
+     "lon": 105.30217722567,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=metro-traffic-light-margorejo"
+    },
+    {
      "nama": "Traffic Light Polres-Imopuro",
      "lokasi": "Traffic Light Polres-Imopuro",
      "stream": "",
@@ -6196,6 +5701,17 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=metrokota-13"
+    },
+    {
+     "nama": "Traffic Light Terminal 16c",
+     "lokasi": "Traffic Light Terminal 16c, Kota Metro, Lampung",
+     "stream": "",
+     "lat": -5.1380701065063,
+     "lon": 105.29699707031,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=metro-traffic-light-terminal-16c"
     },
     {
      "nama": "Tugu Pena Metro",
@@ -8309,26 +7825,26 @@
    "sumber": "CCTV Nusantara",
    "kamera": [
     {
-     "nama": "Balaikota - Lapangan Apel - Kamera 4",
+     "nama": "Balaikota - Lapangan Apel - Kamera 1",
      "lokasi": "Balaikota - Lapangan Apel, Kota Padang, Sumatera Barat",
      "stream": "",
-     "lat": -0.942868,
-     "lon": 100.342479,
+     "lat": -0.951071,
+     "lon": 100.357278,
      "tipe": "hls",
      "kategori": "publik",
      "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=padang-balaikota-lapangan-apel-4"
+     "tautan": "https://cctvnusantara.com/embed?cam=padang-balaikota-lapangan-apel-1"
     },
     {
-     "nama": "Balaikota - Lapangan Apel - Kamera 5",
+     "nama": "Balaikota - Lapangan Apel - Kamera 2",
      "lokasi": "Balaikota - Lapangan Apel, Kota Padang, Sumatera Barat",
      "stream": "",
-     "lat": -0.954398,
-     "lon": 100.34839,
+     "lat": -0.957759,
+     "lon": 100.350976,
      "tipe": "hls",
      "kategori": "publik",
      "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=padang-balaikota-lapangan-apel-5"
+     "tautan": "https://cctvnusantara.com/embed?cam=padang-balaikota-lapangan-apel-2"
     },
     {
      "nama": "Banto Laweh [D5]",
@@ -8914,6 +8430,39 @@
      "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-277839921333828082934099"
     },
     {
+     "nama": "PA. SIJUNJUNG - KANTIN/MUSHOLA/HALAMAN PARKIR",
+     "lokasi": "PA. SIJUNJUNG (Kabupaten Sijunjung)",
+     "stream": "",
+     "lat": -0.696504,
+     "lon": 100.987104,
+     "tipe": "hls",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-720491752957566679330712"
+    },
+    {
+     "nama": "PA. SIJUNJUNG - PTSP",
+     "lokasi": "PA. SIJUNJUNG (Kabupaten Sijunjung)",
+     "stream": "",
+     "lat": -0.69324,
+     "lon": 100.986851,
+     "tipe": "hls",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-475673714549068815159427"
+    },
+    {
+     "nama": "PA. SIJUNJUNG - RUANG TUNGGU SIDANG",
+     "lokasi": "PA. SIJUNJUNG (Kabupaten Sijunjung)",
+     "stream": "",
+     "lat": -0.705006,
+     "lon": 100.980062,
+     "tipe": "hls",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-806622558001041185877315"
+    },
+    {
      "nama": "PA. TALU - KANTIN/MUSHOLA/HALAMAN PARKIR",
      "lokasi": "PA. TALU (Kabupaten Pasaman Barat)",
      "stream": "https://patalu.cctvbadilag3.my.id/402035PATALU/play.html?name=411408615573842146872160",
@@ -9022,6 +8571,17 @@
      "kategori": "wisata",
      "sumber": "pesisir-selatan-cctv",
      "tautan": "https://cctvnusantara.com/embed?cam=pesisir-selatan-3"
+    },
+    {
+     "nama": "Puskesmas Pemancungan - Kamera 1",
+     "lokasi": "Puskesmas Pemancungan, Kota Padang, Sumatera Barat",
+     "stream": "",
+     "lat": -0.958,
+     "lon": 100.342362,
+     "tipe": "hls",
+     "kategori": "publik",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=padang-puskesmas-pemancungan-1"
     },
     {
      "nama": "Puskesmas Pemancungan - Kamera 2",
@@ -9758,17 +9318,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=solok-kota-rsud-serambi-madinah"
     },
     {
-     "nama": "Simpang Ambacang - Kamera 2",
-     "lokasi": "Simpang Ambacang - Kamera 2 (Kota Solok)",
-     "stream": "",
-     "lat": -0.790616,
-     "lon": 100.65133,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "solok-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=solok-jpk7vjjt29"
-    },
-    {
      "nama": "Simpang Denpal - Kamera 1",
      "lokasi": "Simpang Denpal - Kamera 1 (Kota Solok)",
      "stream": "",
@@ -10206,160 +9755,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=binamarga-tol-indralaya-prabumulih-14"
     },
     {
-     "nama": "Tol PALINDRA KM 02+600 A",
-     "lokasi": "Tol PALINDRA KM 02+600 A, Ogan Ilir / Palembang, Sumatera Selatan, Sumatera Selatan",
-     "stream": "",
-     "lat": -3.1410006463501894,
-     "lon": 104.71202529916572,
-     "tipe": "hls",
-     "kategori": "tol",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=hk-palindra-512039039195007414780648"
-    },
-    {
-     "nama": "Tol PALINDRA KM 02+600 B",
-     "lokasi": "Tol PALINDRA KM 02+600 B, Ogan Ilir / Palembang, Sumatera Selatan, Sumatera Selatan",
-     "stream": "",
-     "lat": -3.150868478559417,
-     "lon": 104.7143690917898,
-     "tipe": "hls",
-     "kategori": "tol",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=hk-palindra-098395992445733487844660"
-    },
-    {
-     "nama": "Tol PALINDRA KM 04+600 A",
-     "lokasi": "Tol PALINDRA KM 04+600 A, Ogan Ilir / Palembang, Sumatera Selatan, Sumatera Selatan",
-     "stream": "",
-     "lat": -3.134392297114641,
-     "lon": 104.70737172649682,
-     "tipe": "hls",
-     "kategori": "tol",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=hk-palindra-297952523991600874156119"
-    },
-    {
-     "nama": "Tol PALINDRA KM 04+600 B",
-     "lokasi": "Tol PALINDRA KM 04+600 B, Ogan Ilir / Palembang, Sumatera Selatan, Sumatera Selatan",
-     "stream": "",
-     "lat": -3.168939666977999,
-     "lon": 104.72606914007868,
-     "tipe": "hls",
-     "kategori": "tol",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=hk-palindra-530233880268202462634796"
-    },
-    {
-     "nama": "Tol PALINDRA KM 08+000 A",
-     "lokasi": "Tol PALINDRA KM 08+000 A, Ogan Ilir / Palembang, Sumatera Selatan, Sumatera Selatan",
-     "stream": "",
-     "lat": -3.151228923779583,
-     "lon": 104.7124240113511,
-     "tipe": "hls",
-     "kategori": "tol",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=hk-palindra-406658919562464057620912"
-    },
-    {
-     "nama": "Tol PALINDRA KM 08+000 B",
-     "lokasi": "Tol PALINDRA KM 08+000 B, Ogan Ilir / Palembang, Sumatera Selatan, Sumatera Selatan",
-     "stream": "",
-     "lat": -3.165784626804997,
-     "lon": 104.73863724746136,
-     "tipe": "hls",
-     "kategori": "tol",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=hk-palindra-224877537114032261334138"
-    },
-    {
-     "nama": "Tol PALINDRA KM 09+000 A",
-     "lokasi": "Tol PALINDRA KM 09+000 A, Ogan Ilir / Palembang, Sumatera Selatan, Sumatera Selatan",
-     "stream": "",
-     "lat": -3.1426229241717007,
-     "lon": 104.71568669215164,
-     "tipe": "hls",
-     "kategori": "tol",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=hk-palindra-934798724003250222717535"
-    },
-    {
-     "nama": "Tol PALINDRA KM 09+000 B",
-     "lokasi": "Tol PALINDRA KM 09+000 B, Ogan Ilir / Palembang, Sumatera Selatan, Sumatera Selatan",
-     "stream": "",
-     "lat": -3.1575334219458013,
-     "lon": 104.73679886216512,
-     "tipe": "hls",
-     "kategori": "tol",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=hk-palindra-109071886715896498805239"
-    },
-    {
-     "nama": "Tol PALINDRA KM 13+800 A",
-     "lokasi": "Tol PALINDRA KM 13+800 A, Ogan Ilir / Palembang, Sumatera Selatan, Sumatera Selatan",
-     "stream": "",
-     "lat": -3.1555346414285577,
-     "lon": 104.73244480182213,
-     "tipe": "hls",
-     "kategori": "tol",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=hk-palindra-732417270801764994091215"
-    },
-    {
-     "nama": "Tol PALINDRA KM 13+800 B",
-     "lokasi": "Tol PALINDRA KM 13+800 B, Ogan Ilir / Palembang, Sumatera Selatan, Sumatera Selatan",
-     "stream": "",
-     "lat": -3.1441344588107247,
-     "lon": 104.71441343149137,
-     "tipe": "hls",
-     "kategori": "tol",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=hk-palindra-368855706909873295217771"
-    },
-    {
-     "nama": "Tol PALINDRA KM 15+600 A",
-     "lokasi": "Tol PALINDRA KM 15+600 A, Ogan Ilir / Palembang, Sumatera Selatan, Sumatera Selatan",
-     "stream": "",
-     "lat": -3.1645459833491283,
-     "lon": 104.70049505145084,
-     "tipe": "hls",
-     "kategori": "tol",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=hk-palindra-193092754451782032570212"
-    },
-    {
-     "nama": "Tol PALINDRA KM 15+600 B",
-     "lokasi": "Tol PALINDRA KM 15+600 B, Ogan Ilir / Palembang, Sumatera Selatan, Sumatera Selatan",
-     "stream": "",
-     "lat": -3.1453316976392593,
-     "lon": 104.70623166748908,
-     "tipe": "hls",
-     "kategori": "tol",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=hk-palindra-127104226901962367745581"
-    },
-    {
-     "nama": "Tol PALINDRA KM 17+600 A",
-     "lokasi": "Tol PALINDRA KM 17+600 A, Ogan Ilir / Palembang, Sumatera Selatan, Sumatera Selatan",
-     "stream": "",
-     "lat": -3.1605698152411836,
-     "lon": 104.72922673142465,
-     "tipe": "hls",
-     "kategori": "tol",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=hk-palindra-471284255651623150354995"
-    },
-    {
-     "nama": "Tol PALINDRA KM 17+600 B",
-     "lokasi": "Tol PALINDRA KM 17+600 B, Ogan Ilir / Palembang, Sumatera Selatan, Sumatera Selatan",
-     "stream": "",
-     "lat": -3.1514114794645796,
-     "lon": 104.73326553081424,
-     "tipe": "hls",
-     "kategori": "tol",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=hk-palindra-095075257774403453902913"
-    },
-    {
      "nama": "Tol Palindra - PALINDRA GT Indralaya",
      "lokasi": "Tol Palindra, PALINDRA GT Indralaya",
      "stream": "",
@@ -10575,28 +9970,6 @@
      "kategori": "pengadilan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-393650210384523171302750"
-    },
-    {
-     "nama": "PA. PAGAR ALAM - PTSP",
-     "lokasi": "PA. PAGAR ALAM (Kota Pagar Alam)",
-     "stream": "",
-     "lat": -4.014573,
-     "lon": 103.249438,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-154809225476577754018405"
-    },
-    {
-     "nama": "PA. PAGAR ALAM - RUANG TUNGGU SIDANG",
-     "lokasi": "PA. PAGAR ALAM (Kota Pagar Alam)",
-     "stream": "",
-     "lat": -4.018239,
-     "lon": 103.251617,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-790135061241022177890292"
     }
    ]
   },
@@ -10869,17 +10242,6 @@
      "kategori": "jalan",
      "sumber": "palembang-cctv",
      "tautan": "https://cctvnusantara.com/embed?cam=palembang-cctv-spip-30"
-    },
-    {
-     "nama": "CCTV SP Parameswara",
-     "lokasi": "CCTV SP Parameswara (Kota Palembang)",
-     "stream": "",
-     "lat": -2.988164860621555,
-     "lon": 104.71905091893788,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "palembang-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=palembang-cctv-param-43"
     },
     {
      "nama": "CCTV SP Samsat",
@@ -14657,6 +14019,17 @@
      "tautan": "https://cctvnusantara.com/embed?cam=medan-atcs-8-0"
     },
     {
+     "nama": "SIMPANG PEMDA",
+     "lokasi": "SIMPANG PEMDA",
+     "stream": "",
+     "lat": 3.541019,
+     "lon": 98.622381,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=medan-atcs-89-0"
+    },
+    {
      "nama": "SIMPANG PIZZA HUT",
      "lokasi": "SIMPANG PIZZA HUT",
      "stream": "",
@@ -14666,6 +14039,17 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=medan-atcs-12-0"
+    },
+    {
+     "nama": "SIMPANG POS",
+     "lokasi": "SIMPANG POS",
+     "stream": "",
+     "lat": 3.540614,
+     "lon": 98.654322,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=medan-atcs-62-0"
     },
     {
      "nama": "SIMPANG RS ADAM MALIK",
@@ -16686,6 +16070,28 @@
      "tautan": "https://cctvnusantara.com/embed?cam=tol-astra-mms-cikupa-2"
     },
     {
+     "nama": "Tol Tangerang-Merak - Cilegon Barat Entrance",
+     "lokasi": "Tol Tangerang-Merak Cilegon Barat (Astra Tol MMS)",
+     "stream": "",
+     "lat": -5.9836705,
+     "lon": 106.0333902,
+     "tipe": "hls",
+     "kategori": "tol",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=tol-astra-mms-cilegon-barat-entrance"
+    },
+    {
+     "nama": "Tol Tangerang-Merak - IC Cikande",
+     "lokasi": "Tol Tangerang-Merak interchange Cikande (Astra Tol MMS)",
+     "stream": "",
+     "lat": -6.1904541,
+     "lon": 106.3117442,
+     "tipe": "hls",
+     "kategori": "tol",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=tol-astra-mms-ic-cikande"
+    },
+    {
      "nama": "Tol Tangerang-Merak - KM 29+700 B",
      "lokasi": "Tol Tangerang-Merak KM 29+700 B (Astra Tol MMS)",
      "stream": "",
@@ -17219,26 +16625,15 @@
      "tautan": "https://cctvnusantara.com/embed?cam=dishub-kab-tangerang-01jsrcb5aqka89ned967d8gz1k"
     },
     {
-     "nama": "CCTV Kab Tangerang - Simpang Pasar Kemis 1",
-     "lokasi": "CCTV Kab Tangerang - Simpang Pasar Kemis 1, Kabupaten Tangerang, Banten",
+     "nama": "CCTV Kab Tangerang - Simpang Legok 1",
+     "lokasi": "Simpang Legok 1, Kabupaten Tangerang, Banten",
      "stream": "",
-     "lat": -6.1705426,
-     "lon": 106.5306045,
+     "lat": -6.328278266985109,
+     "lon": 106.57711675755323,
      "tipe": "hls",
      "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=dishub-kab-tangerang-01jsr0t8vyed4mcezqccqfngha"
-    },
-    {
-     "nama": "CCTV Kab Tangerang - Simpang Pasar Kemis 2",
-     "lokasi": "CCTV Kab Tangerang - Simpang Pasar Kemis 2, Kabupaten Tangerang, Banten",
-     "stream": "",
-     "lat": -6.1704703,
-     "lon": 106.5304552,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=dishub-kab-tangerang-01jsr3dmjxav35pvcja8j4c6ac"
+     "sumber": "Dishub Kab. Tangerang",
+     "tautan": "https://cctvnusantara.com/embed?cam=dishub-kab-tangerang-01jsrdvkp3ssgqrtemf8kn8gv6"
     },
     {
      "nama": "CCTV Kab Tangerang - Simpang Rajeg Kukun 1",
@@ -17296,6 +16691,17 @@
      "tautan": "https://cctvnusantara.com/embed?cam=dishub-kab-tangerang-01jzvqg6wswbn9vc37nyyf0qg1"
     },
     {
+     "nama": "CIPULIR-ESTATE (Ciledug / Karang Tengah)",
+     "lokasi": "CIPULIR-ESTATE, Ciledug / Karang Tengah, Kota Tangerang",
+     "stream": "",
+     "lat": -6.247242393073549,
+     "lon": 106.74279879854667,
+     "tipe": "snapshot",
+     "kategori": "publik",
+     "sumber": "SiPantau DPUPR Kota Tangerang",
+     "tautan": "https://cctvnusantara.com/embed?cam=tangerang-dpupr-cipulir-estate"
+    },
+    {
      "nama": "CIPUTAT - PINTU 3",
      "lokasi": "CIPUTAT - PINTU 3, Kota Tangerang",
      "stream": "",
@@ -17316,17 +16722,6 @@
      "kategori": "publik",
      "sumber": "SiPantau DPUPR Kota Tangerang",
      "tautan": "https://cctvnusantara.com/embed?cam=tangerang-dpupr-cirarab-telesonik"
-    },
-    {
-     "nama": "CISADANE - BATU BELAH",
-     "lokasi": "CISADANE - BATU BELAH, Rumpin, Kota Tangerang",
-     "stream": "",
-     "lat": -6.518366748218,
-     "lon": 106.68992894663,
-     "tipe": "snapshot",
-     "kategori": "publik",
-     "sumber": "SiPantau DPUPR Kota Tangerang",
-     "tautan": "https://cctvnusantara.com/embed?cam=tangerang-dpupr-cisadane-batu-belah"
     },
     {
      "nama": "LEDUG - ALAMANDA",
@@ -17935,7 +17330,7 @@
    ]
   },
   {
-   "nama": "Kabupaten Sleman",
+   "nama": "Sleman",
    "pulau": "Jawa",
    "provinsi": "DI Yogyakarta",
    "sumber": "CCTV Nusantara",
@@ -17950,39 +17345,6 @@
      "kategori": "pengadilan",
      "sumber": "slemankab-cctv",
      "tautan": "https://cctvnusantara.com/embed?cam=slemankab-kantin-mushola-halaman-parkir-4"
-    },
-    {
-     "nama": "PA. SLEMAN - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PA. SLEMAN (KANTIN/MUSHOLA/HALAMAN PARKIR)",
-     "stream": "https://pasleman.cctvbadilag.my.id/401200PASLEMAN/play.html?name=303054105320652811215948",
-     "lat": -7.687937,
-     "lon": 110.346133,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-303054105320652811215948"
-    },
-    {
-     "nama": "PA. SLEMAN - PTSP",
-     "lokasi": "PA. SLEMAN (PTSP)",
-     "stream": "",
-     "lat": -7.686008,
-     "lon": 110.347049,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-280672653965814774708680"
-    },
-    {
-     "nama": "PA. SLEMAN - RUANG TUNGGU SIDANG",
-     "lokasi": "PA. SLEMAN (RUANG TUNGGU SIDANG)",
-     "stream": "",
-     "lat": -7.689332,
-     "lon": 110.346454,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-764655385251145361069060"
     },
     {
      "nama": "Pantauan CCTV Gunung Merapi 24 Jam (Induk Frekom 86)",
@@ -18003,6 +17365,28 @@
    "provinsi": "DI Yogyakarta",
    "sumber": "CCTV Nusantara",
    "kamera": [
+    {
+     "nama": "CCTV Live Simpang Tempel (Sleman - Magelang)",
+     "lokasi": "Simpang Batas Provinsi Tempel, Jl. Magelang KM 17, Sleman",
+     "stream": "https://www.youtube.com/embed/DPweUwRgUVs",
+     "lat": -7.652,
+     "lon": 110.324,
+     "tipe": "youtube",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=apace-26015"
+    },
+    {
+     "nama": "CCTV Live Simpang Toyan (Kulon Progo)",
+     "lokasi": "Simpang Tiga Toyan, Jl. Wates - Purworejo, Kulon Progo",
+     "stream": "https://www.youtube.com/embed/5xnv6iOj9Uk",
+     "lat": -7.868,
+     "lon": 110.152,
+     "tipe": "youtube",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=apace-26001"
+    },
     {
      "nama": "Depan DPRD Pos Security",
      "lokasi": "Depan DPRD Pos Security, UMBULHARJO, Kota Yogyakarta, DI Yogyakarta",
@@ -18409,182 +17793,6 @@
      "kategori": "jalan",
      "sumber": "ATCS / JSS Kota Yogyakarta",
      "tautan": "https://cctvnusantara.com/embed?cam=jogja-jss-429-optic-tugu"
-    },
-    {
-     "nama": "PA. BANTUL - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PA. BANTUL (Kabupaten Bantul)",
-     "stream": "",
-     "lat": -7.893653,
-     "lon": 110.334843,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-000668556966325717391973"
-    },
-    {
-     "nama": "PA. BANTUL - PTSP",
-     "lokasi": "PA. BANTUL (Kabupaten Bantul)",
-     "stream": "",
-     "lat": -7.896036,
-     "lon": 110.33401,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-998664477570184296488406"
-    },
-    {
-     "nama": "PA. BANTUL - RUANG TUNGGU SIDANG",
-     "lokasi": "PA. BANTUL (Kabupaten Bantul)",
-     "stream": "",
-     "lat": -7.892005,
-     "lon": 110.336248,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-677342366397964433680070"
-    },
-    {
-     "nama": "PA. WATES - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PA. WATES (Kabupaten Kulon Progo)",
-     "stream": "https://pawates.cctvbadilag2.my.id/401219PAWATES/play.html?name=283422618194776876824932",
-     "lat": -7.859457,
-     "lon": 110.16041,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-283422618194776876824932"
-    },
-    {
-     "nama": "PA. WATES - PTSP",
-     "lokasi": "PA. WATES (Kabupaten Kulon Progo)",
-     "stream": "https://pawates.cctvbadilag2.my.id/401219PAWATES/play.html?name=677834239344868907800067",
-     "lat": -7.856729,
-     "lon": 110.160102,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-677834239344868907800067"
-    },
-    {
-     "nama": "PA. WATES - RUANG TUNGGU SIDANG",
-     "lokasi": "PA. WATES (Kabupaten Kulon Progo)",
-     "stream": "https://pawates.cctvbadilag2.my.id/401219PAWATES/play.html?name=672482117908514011161169",
-     "lat": -7.857376,
-     "lon": 110.158451,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-672482117908514011161169"
-    },
-    {
-     "nama": "PA. WONOSARI - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PA. WONOSARI (Kabupaten Gunungkidul)",
-     "stream": "https://pawonosari.cctvbadilag.my.id/401231PAWONOSARI/play.html?name=640522438118541905914232",
-     "lat": -7.964109,
-     "lon": 110.604224,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-640522438118541905914232"
-    },
-    {
-     "nama": "PA. WONOSARI - PTSP",
-     "lokasi": "PA. WONOSARI (Kabupaten Gunungkidul)",
-     "stream": "https://pawonosari.cctvbadilag.my.id/401231PAWONOSARI/play.html?name=044665500209913962502998",
-     "lat": -7.967056,
-     "lon": 110.602974,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-044665500209913962502998"
-    },
-    {
-     "nama": "PA. WONOSARI - RUANG TUNGGU SIDANG",
-     "lokasi": "PA. WONOSARI (Kabupaten Gunungkidul)",
-     "stream": "https://pawonosari.cctvbadilag.my.id/401231PAWONOSARI/play.html?name=871816678438441137813869",
-     "lat": -7.963603,
-     "lon": 110.603419,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-871816678438441137813869"
-    },
-    {
-     "nama": "PA. YOGYAKARTA - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PA. YOGYAKARTA (KANTIN/MUSHOLA/HALAMAN PARKIR)",
-     "stream": "",
-     "lat": -7.79524,
-     "lon": 110.367595,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-055140472079321157905693"
-    },
-    {
-     "nama": "PA. YOGYAKARTA - PTSP",
-     "lokasi": "PA. YOGYAKARTA (PTSP)",
-     "stream": "",
-     "lat": -7.795717,
-     "lon": 110.368237,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-982914771989649150947046"
-    },
-    {
-     "nama": "PA. YOGYAKARTA - RUANG TUNGGU SIDANG",
-     "lokasi": "PA. YOGYAKARTA (RUANG TUNGGU SIDANG)",
-     "stream": "",
-     "lat": -7.793852,
-     "lon": 110.370097,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-373730441182204661415165"
-    },
-    {
-     "nama": "PT. YOGYAKARTA - GERBANG BARAT",
-     "lokasi": "Pengadilan Tinggi Yogyakarta, Jl. Prof. Dr. Wirjono Prodjodikoro, SH, Bangunharjo, Sewon, Kabupaten Bantul, DI Yogyakarta",
-     "stream": "",
-     "lat": -7.836397,
-     "lon": 110.370949,
-     "tipe": "hls",
-     "kategori": "pengadilannegeri",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=pt-yogyakarta-gerbang-barat"
-    },
-    {
-     "nama": "PT. YOGYAKARTA - GERBANG TIMUR",
-     "lokasi": "Pengadilan Tinggi Yogyakarta, Jl. Prof. Dr. Wirjono Prodjodikoro, SH, Bangunharjo, Sewon, Kabupaten Bantul, DI Yogyakarta",
-     "stream": "",
-     "lat": -7.836433,
-     "lon": 110.37121,
-     "tipe": "hls",
-     "kategori": "pengadilannegeri",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=pt-yogyakarta-gerbang-timur"
-    },
-    {
-     "nama": "PTA YOGYAKARTA - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PTA YOGYAKARTA (KANTIN/MUSHOLA/HALAMAN PARKIR)",
-     "stream": "https://ptayogyakarta.cctvbadilag.my.id/547657PTAYOGYAKARTA/play.html?name=163634635977782349504442",
-     "lat": -7.796637,
-     "lon": 110.371219,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-163634635977782349504442"
-    },
-    {
-     "nama": "PTA YOGYAKARTA - PTSP",
-     "lokasi": "PTA YOGYAKARTA (PTSP)",
-     "stream": "https://ptayogyakarta.cctvbadilag.my.id/547657PTAYOGYAKARTA/play.html?name=039737815211119212669036",
-     "lat": -7.79559,
-     "lon": 110.370535,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-039737815211119212669036"
     },
     {
      "nama": "Parkiran Ngabean",
@@ -19814,6 +19022,17 @@
      "kategori": "jalan",
      "sumber": "Bina Marga",
      "tautan": "https://cctvnusantara.com/embed?cam=binamarga-61-400-a"
+    },
+    {
+     "nama": "61+400 B",
+     "lokasi": "61+400 B (DKI Jakarta)",
+     "stream": "",
+     "lat": -6.114,
+     "lon": 106.927975,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": "Bina Marga",
+     "tautan": "https://cctvnusantara.com/embed?cam=binamarga-61-400-b"
     },
     {
      "nama": "Ancol 001",
@@ -24656,17 +23875,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=jakcctv-502507-jkp-satpol-pp-jl-jend-gatot-subroto-c11-cctv-01"
     },
     {
-     "nama": "Jl. Gatot Subroto (Kawasan Semanggi) — Sudut 2",
-     "lokasi": "Jl. Gatot Subroto (Kawasan Semanggi) — Sudut 2, Jakarta, Jakarta Pusat, DKI Jakarta",
-     "stream": "",
-     "lat": -6.225112,
-     "lon": 106.81641,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=jakcctv-502507-jkp-satpol-pp-jl-jend-gatot-subroto-c11-cctv-02"
-    },
-    {
      "nama": "Jl. Gerbang Pemuda (Depan TVRI / Kemenpora) — Sudut 1",
      "lokasi": "Jl. Gerbang Pemuda (Depan TVRI / Kemenpora) — Sudut 1, Jakarta, Jakarta Pusat, DKI Jakarta",
      "stream": "",
@@ -29461,28 +28669,6 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=jakcctv-502492-jkp-satpol-pp-simpang-jl-mh-thamrin-c08-cctv-02"
-    },
-    {
-     "nama": "Simpang Jl. MH Thamrin C07 (Sarinah)",
-     "lokasi": "Simpang Jl. MH Thamrin C07 (Sarinah), Jakarta Pusat, DKI Jakarta",
-     "stream": "https://dki-jkt.balitower.co.id:7028/502491_JKP_SATPOL-PP_SIMPANG-JL.-MH.-THAMRIN-C07_CCTV-01/index.m3u8",
-     "lat": -6.19624,
-     "lon": 106.82349,
-     "tipe": null,
-     "kategori": "smartcity",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=jakcctv-502491-satpol-pp-simpang-jl-mh-thamrin-c07-cctv-01"
-    },
-    {
-     "nama": "Simpang Jl. MH Thamrin C07 (Sarinah)",
-     "lokasi": "Simpang Jl. MH Thamrin C07 (Sarinah), Jakarta Pusat, DKI Jakarta",
-     "stream": "https://dki-jkt.balitower.co.id:7028/502491_JKP_SATPOL-PP_SIMPANG-JL.-MH.-THAMRIN-C07_CCTV-02/index.m3u8",
-     "lat": -6.19624,
-     "lon": 106.82349,
-     "tipe": null,
-     "kategori": "smartcity",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=jakcctv-502491-satpol-pp-simpang-jl-mh-thamrin-c07-cctv-02"
     },
     {
      "nama": "Simpang Jl. Nurdin Raya",
@@ -37759,6 +36945,17 @@
    "sumber": "CCTV Nusantara",
    "kamera": [
     {
+     "nama": "CCTV Live Jalur Utama Nagreg (Pos Tangan)",
+     "lokasi": "Kawasan Jalur Tanjakan & Simpang Nagreg, Kab. Bandung",
+     "stream": "https://www.youtube.com/embed/0suRbLOObcg",
+     "lat": -7.025,
+     "lon": 107.5186,
+     "tipe": "youtube",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=apace-22038"
+    },
+    {
      "nama": "PA. SOREANG - KANTIN/MUSHOLA/HALAMAN PARKIR",
      "lokasi": "PA. SOREANG (KANTIN/MUSHOLA/HALAMAN PARKIR)",
      "stream": "https://pasoreang.cctvbadilag.my.id/401957PASOREANG/play.html?name=487498901940579412357698",
@@ -37875,6 +37072,17 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=kbb-dishub-ciburuy_tagog"
+    },
+    {
+     "nama": "ATCS KBB - CIHAMPELAS - BBS",
+     "lokasi": "CIHAMPELAS - BBS, Kabupaten Bandung Barat, Jawa Barat",
+     "stream": "",
+     "lat": -6.925062,
+     "lon": 107.47979,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=kbb-dishub-Cihampelas(BBS)"
     },
     {
      "nama": "ATCS KBB - CIHAMPELAS - SAYURAN",
@@ -38119,17 +37327,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=kbb-dishub-padalarangCihaliwungcikalong"
     },
     {
-     "nama": "ATCS KBB - PADALARANG - CIHALIWUNG - STASIUN",
-     "lokasi": "PADALARANG - CIHALIWUNG - STASIUN, Kabupaten Bandung Barat, Jawa Barat",
-     "stream": "",
-     "lat": -6.836834916625617,
-     "lon": 107.48848128886098,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=kbb-dishub-padalarangCihaliwungSTATIUN"
-    },
-    {
      "nama": "ATCS KBB - PADALARANG - GEDONG 5 ATAS - CIHALIWUNG",
      "lokasi": "PADALARANG - GEDONG 5 ATAS - CIHALIWUNG, Kabupaten Bandung Barat, Jawa Barat",
      "stream": "",
@@ -38139,17 +37336,6 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=kbb-dishub-gedong5atascihaliwung"
-    },
-    {
-     "nama": "ATCS KBB - PADALARANG - GEDONG 5 ATAS - KERTAJAYA",
-     "lokasi": "PADALARANG - GEDONG 5 ATAS - KERTAJAYA, Kabupaten Bandung Barat, Jawa Barat",
-     "stream": "",
-     "lat": -6.842578,
-     "lon": 107.496351,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=kbb-dishub-gedong5ataskertajaya"
     },
     {
      "nama": "ATCS KBB - PADALARANG - GEDONG 5 ATAS - STASIUN",
@@ -38249,28 +37435,6 @@
      "kategori": "jembatan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=kbb-dishub-flyovercireme"
-    },
-    {
-     "nama": "ATCS KBB - PADALARANG FLYOVER - KBP",
-     "lokasi": "PADALARANG FLYOVER - KBP, Kabupaten Bandung Barat, Jawa Barat",
-     "stream": "",
-     "lat": -6.851708611534994,
-     "lon": 107.49744037456323,
-     "tipe": "hls",
-     "kategori": "jembatan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=kbb-dishub-flyoverkbp"
-    },
-    {
-     "nama": "ATCS KBB - PADALARANG GIANT - TOL",
-     "lokasi": "PADALARANG GIANT - TOL, Kabupaten Bandung Barat, Jawa Barat",
-     "stream": "",
-     "lat": -6.850531,
-     "lon": 107.495829,
-     "tipe": "hls",
-     "kategori": "tol",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=kbb-dishub-giantTol"
     },
     {
      "nama": "ATCS KBB - SIMPANG BBS - CILILIN",
@@ -38690,6 +37854,17 @@
    "sumber": "CCTV Nusantara",
    "kamera": [
     {
+     "nama": "Alun-Alun Cianjur",
+     "lokasi": "Alun-Alun Cianjur",
+     "stream": "",
+     "lat": -6.8177,
+     "lon": 107.1396,
+     "tipe": "hls",
+     "kategori": "publik",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=cianjur-65"
+    },
+    {
      "nama": "Botol Kecap Ciloto",
      "lokasi": "Botol Kecap Ciloto",
      "stream": "",
@@ -39094,6 +38269,50 @@
    "sumber": "CCTV Nusantara",
    "kamera": [
     {
+     "nama": "Alun Alun Tarogong",
+     "lokasi": "Alun Alun Tarogong, Kabupaten Garut",
+     "stream": "",
+     "lat": -7.1904537,
+     "lon": 107.8891676,
+     "tipe": "hls",
+     "kategori": "publik",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=garut-1"
+    },
+    {
+     "nama": "Alun-alun Pameungpeuk",
+     "lokasi": "Alun-alun Pameungpeuk, Kabupaten Garut",
+     "stream": "",
+     "lat": -7.6449279,
+     "lon": 107.7300725,
+     "tipe": "hls",
+     "kategori": "publik",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=garut-8"
+    },
+    {
+     "nama": "Bunderan Kerkof",
+     "lokasi": "Bunderan Kerkof, Kabupaten Garut",
+     "stream": "",
+     "lat": -7.2071179,
+     "lon": 107.9030395,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=garut-22"
+    },
+    {
+     "nama": "Bunderan Suci",
+     "lokasi": "Bunderan Suci, Kabupaten Garut",
+     "stream": "",
+     "lat": -7.2159878,
+     "lon": 107.9211759,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=garut-6"
+    },
+    {
      "nama": "CCTV Pantau Gunung Guntur - Pos PGA",
      "lokasi": "Pos Pengamatan Gunung Api Guntur, Tarogong Kaler",
      "stream": "",
@@ -39114,6 +38333,61 @@
      "kategori": "gunung",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=volcano-papandayan-menara-pandang"
+    },
+    {
+     "nama": "Cipanas pertigaan",
+     "lokasi": "Cipanas pertigaan, Kabupaten Garut",
+     "stream": "",
+     "lat": -7.1796334,
+     "lon": 107.8744402,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=garut-10"
+    },
+    {
+     "nama": "Jembatan Maktal",
+     "lokasi": "Jembatan Maktal, Kabupaten Garut",
+     "stream": "",
+     "lat": -7.219565,
+     "lon": 107.8997957,
+     "tipe": "hls",
+     "kategori": "jembatan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=garut-4"
+    },
+    {
+     "nama": "Kadungora",
+     "lokasi": "Kadungora, Kabupaten Garut",
+     "stream": "",
+     "lat": -7.0751528,
+     "lon": 107.8987894,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=garut-3"
+    },
+    {
+     "nama": "Leuwidaun",
+     "lokasi": "Leuwidaun, Kabupaten Garut",
+     "stream": "",
+     "lat": -7.2085314,
+     "lon": 107.8991947,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=garut-17"
+    },
+    {
+     "nama": "Maktal pos",
+     "lokasi": "Maktal pos, Kabupaten Garut",
+     "stream": "",
+     "lat": -7.2195067,
+     "lon": 107.9001542,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=garut-5"
     },
     {
      "nama": "PA. GARUT - KANTIN/MUSHOLA/HALAMAN PARKIR",
@@ -39147,6 +38421,94 @@
      "kategori": "pengadilan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-671239597132387678552660"
+    },
+    {
+     "nama": "Pasar lewo",
+     "lokasi": "Pasar lewo, Kabupaten Garut",
+     "stream": "",
+     "lat": -7.053419,
+     "lon": 108.0477491,
+     "tipe": "hls",
+     "kategori": "publik",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=garut-19"
+    },
+    {
+     "nama": "Perempatan BJB",
+     "lokasi": "Perempatan BJB, Kabupaten Garut",
+     "stream": "",
+     "lat": -7.215768,
+     "lon": 107.9046391,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=garut-15"
+    },
+    {
+     "nama": "Perempatan Sigobing",
+     "lokasi": "Perempatan Sigobing, Kabupaten Garut",
+     "stream": "",
+     "lat": -7.163589,
+     "lon": 107.8976745,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=garut-9"
+    },
+    {
+     "nama": "Petigaan Pengkolan",
+     "lokasi": "Petigaan Pengkolan, Kabupaten Garut",
+     "stream": "",
+     "lat": -7.2157989,
+     "lon": 107.9058798,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=garut-20"
+    },
+    {
+     "nama": "SMK 2 Garut",
+     "lokasi": "SMK 2 Garut, Kabupaten Garut",
+     "stream": "",
+     "lat": -7.1901064,
+     "lon": 107.9023317,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=garut-24"
+    },
+    {
+     "nama": "Simpang Limbangan",
+     "lokasi": "Simpang Limbangan, Kabupaten Garut",
+     "stream": "",
+     "lat": -7.0379503,
+     "lon": 107.9768148,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=garut-16"
+    },
+    {
+     "nama": "Simpang Malangbong",
+     "lokasi": "Simpang Malangbong, Kabupaten Garut",
+     "stream": "",
+     "lat": -7.0607968,
+     "lon": 108.0869171,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=garut-14"
+    },
+    {
+     "nama": "Wanaraja",
+     "lokasi": "Wanaraja, Kabupaten Garut",
+     "stream": "",
+     "lat": -7.1750218,
+     "lon": 107.9802416,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=garut-2"
     }
    ]
   },
@@ -40022,17 +39384,6 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=pelindung-0f40fe36-0580-458d-80f2-b42f743d866a"
-    },
-    {
-     "nama": "Balaikota Wastukencana",
-     "lokasi": "Balaikota Wastukencana, Kota Bandung, Jawa Barat",
-     "stream": "",
-     "lat": -6.91292710070281,
-     "lon": 107.60917956423819,
-     "tipe": "hls",
-     "kategori": "publik",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=pelindung-4b9e51ce-3d84-4f10-82c9-9ce0d051aa89"
     },
     {
      "nama": "CCTV  Pasteur JL DR DJUNJUNAN BTC 01",
@@ -46334,6 +45685,17 @@
      "tautan": "https://cctvnusantara.com/embed?cam=pelindung-945d6873-64dc-4990-a3c5-c5bb67e02000"
     },
     {
+     "nama": "TM ALUN-ALUN BANDUNG 01",
+     "lokasi": "TM ALUN-ALUN BANDUNG 01, Kota Bandung",
+     "stream": "",
+     "lat": -6.9218261554165155,
+     "lon": 107.60706636669488,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=pelindung-6dc07627-cba0-4d47-a516-8f53f2a11fbc"
+    },
+    {
      "nama": "TM ALUN-ALUN BANDUNG 02",
      "lokasi": "Kota Bandung",
      "stream": "https://pelindung.bandung.go.id:3443/video/DPKP3/tmalun2bdg2.m3u8",
@@ -46732,28 +46094,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=banjarkota-11"
     },
     {
-     "nama": "Lapang Bakti 1",
-     "lokasi": "Lapang Bakti 1",
-     "stream": "",
-     "lat": -7.369355,
-     "lon": 108.534215,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=banjar-atcs-33"
-    },
-    {
-     "nama": "Lapang Bakti 2",
-     "lokasi": "Lapang Bakti 2",
-     "stream": "",
-     "lat": -7.369461,
-     "lon": 108.53414,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=banjar-atcs-34"
-    },
-    {
      "nama": "PA. KOTA BANJAR - KANTIN/MUSHOLA/HALAMAN PARKIR",
      "lokasi": "PA. KOTA BANJAR (KANTIN/MUSHOLA/HALAMAN PARKIR)",
      "stream": "",
@@ -46807,17 +46147,6 @@
      "kategori": "publik",
      "sumber": "banjarkota",
      "tautan": "https://cctvnusantara.com/embed?cam=banjarkota-40"
-    },
-    {
-     "nama": "PUSDAI",
-     "lokasi": "PUSDAI",
-     "stream": "",
-     "lat": -7.361712,
-     "lon": 108.533912,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=banjar-atcs-37"
     },
     {
      "nama": "RCA LAMA",
@@ -46908,17 +46237,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=banjarkota-53"
     },
     {
-     "nama": "SIMPANG TSANAWIYAH",
-     "lokasi": "SIMPANG TSANAWIYAH",
-     "stream": "",
-     "lat": -7.366291,
-     "lon": 108.534516,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=banjar-atcs-36"
-    },
-    {
      "nama": "SINGAPERBANGSA",
      "lokasi": "SINGAPERBANGSA",
      "stream": "",
@@ -47005,17 +46323,6 @@
      "kategori": "jalan",
      "sumber": "banjarkota",
      "tautan": "https://cctvnusantara.com/embed?cam=banjarkota-7"
-    },
-    {
-     "nama": "Simpang H. Ayo Kota Banjar",
-     "lokasi": "Simpang H. Ayo Kota Banjar, Kota Banjar",
-     "stream": "",
-     "lat": -7.37103,
-     "lon": 108.539494,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=banjar-atcs-12"
     },
     {
      "nama": "TANJUNGSUKUR ARAH PANGANDARAN",
@@ -47298,17 +46605,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=bogor-134"
     },
     {
-     "nama": "- JL. MAWAR ARAH SEMERU",
-     "lokasi": "CCTV - JL. MAWAR ARAH SEMERU, Kota Bogor, Jawa Barat",
-     "stream": "",
-     "lat": -6.59801569602793,
-     "lon": 106.79277803775092,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=bogor-137"
-    },
-    {
      "nama": "ARAH JALAK HARUPAT",
      "lokasi": "CCTV ARAH JALAK HARUPAT, Kota Bogor, Jawa Barat",
      "stream": "",
@@ -47342,28 +46638,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=bogor-bsw-206"
     },
     {
-     "nama": "BELAKANG PASAR MAWAR -F",
-     "lokasi": "CCTV BELAKANG PASAR MAWAR -F, Kota Bogor, Jawa Barat",
-     "stream": "",
-     "lat": -6.5986076029498895,
-     "lon": 106.7918193220106,
-     "tipe": "hls",
-     "kategori": "publik",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=bogor-150"
-    },
-    {
-     "nama": "BELAKANG PASAR MAWAR 1 -P",
-     "lokasi": "CCTV BELAKANG PASAR MAWAR 1 -P, Kota Bogor, Jawa Barat",
-     "stream": "",
-     "lat": -6.597468278304395,
-     "lon": 106.79228078315009,
-     "tipe": "hls",
-     "kategori": "publik",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=bogor-152"
-    },
-    {
      "nama": "BORR ARAH KEDUNG HALANG",
      "lokasi": "CCTV BORR ARAH KEDUNG HALANG, Kota Bogor, Jawa Barat",
      "stream": "",
@@ -47395,17 +46669,6 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=bogor-bsw-212"
-    },
-    {
-     "nama": "CCTV- PERTIGA JL. MAWAR ARAH MERDEKA",
-     "lokasi": "CCTV- PERTIGA JL. MAWAR ARAH MERDEKA, Kota Bogor, Jawa Barat",
-     "stream": "",
-     "lat": -6.59806185779041,
-     "lon": 106.79115290823114,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=bogor-136"
     },
     {
      "nama": "CCTV- SIMPANG DEPOM",
@@ -47573,17 +46836,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=bogor-191"
     },
     {
-     "nama": "JL. FALAK 2 -P",
-     "lokasi": "CCTV JL. FALAK 2 -P, Kota Bogor, Jawa Barat",
-     "stream": "",
-     "lat": -6.614821998738745,
-     "lon": 106.82534772870507,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=bogor-154"
-    },
-    {
      "nama": "JL. RAYA TAJUR 1",
      "lokasi": "CCTV JL. RAYA TAJUR 1, Kota Bogor, Jawa Barat",
      "stream": "",
@@ -47604,17 +46856,6 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=bogor-bsw-174"
-    },
-    {
-     "nama": "JL. SEMERU 1 -P",
-     "lokasi": "CCTV JL. SEMERU 1 -P, Kota Bogor, Jawa Barat",
-     "stream": "",
-     "lat": -6.59675410173939,
-     "lon": 106.79393605524045,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=bogor-158"
     },
     {
      "nama": "JL.BARU - CIBADAK 2 -F",
@@ -47648,17 +46889,6 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=bogor-169"
-    },
-    {
-     "nama": "JL.SEMERU 2 -F",
-     "lokasi": "CCTV JL.SEMERU 2, Kota Bogor, Jawa Barat",
-     "stream": "",
-     "lat": -6.595561726086113,
-     "lon": 106.79365688977686,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=bogor-157"
     },
     {
      "nama": "JUANDA",
@@ -47947,17 +47177,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=bogor-bsw-161"
     },
     {
-     "nama": "SIMPANG ARAH DRAMAGA",
-     "lokasi": "CCTV SIMPANG ARAH DRAMAGA, Kota Bogor, Jawa Barat",
-     "stream": "",
-     "lat": -6.69968758722548,
-     "lon": 106.90062461299352,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=bogor-151"
-    },
-    {
      "nama": "SIMPANG CIAWI ARAH PUNCAK",
      "lokasi": "CCTV SIMPANG CIAWI ARAH PUNCAK, Kota Bogor, Jawa Barat",
      "stream": "",
@@ -48013,17 +47232,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=bogor-182"
     },
     {
-     "nama": "SIMPANG MANUNGGAL",
-     "lokasi": "CCTV SIMPANG MANUNGGAL, Kota Bogor, Jawa Barat",
-     "stream": "",
-     "lat": -6.617096882355443,
-     "lon": 106.81564103525805,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=bogor-192"
-    },
-    {
      "nama": "SIMPANG PAHLAWAN 1 -F",
      "lokasi": "CCTV SIMPANG PAHLAWAN 1 -F, Kota Bogor, Jawa Barat",
      "stream": "",
@@ -48044,17 +47252,6 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=bogor-167"
-    },
-    {
-     "nama": "SIMPANG SINDANG BARANG 3",
-     "lokasi": "CCTV SIMPANG SINDANG BARANG 3, Kota Bogor, Jawa Barat",
-     "stream": "",
-     "lat": -6.595,
-     "lon": 106.816,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=bogor-bsw-146"
     },
     {
      "nama": "SUDIRMAN",
@@ -48110,50 +47307,6 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=bogor-ciheleut"
-    },
-    {
-     "nama": "Simpang Rsud Kota Bogor - Kota Bogor",
-     "lokasi": "Simpang Rsud Kota Bogor - Kota Bogor, Bogor, Jawa Barat",
-     "stream": "",
-     "lat": -6.597147,
-     "lon": 106.806039,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=bogor-198"
-    },
-    {
-     "nama": "Simpang Terminal Bubulak 1",
-     "lokasi": "Kawasan Terminal Bubulak, Bogor Barat",
-     "stream": "",
-     "lat": -6.5605,
-     "lon": 106.749,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=bogor-148"
-    },
-    {
-     "nama": "Simpang Terminal Bubulak 2",
-     "lokasi": "Kawasan Terminal Bubulak, Bogor Barat",
-     "stream": "",
-     "lat": -6.5608,
-     "lon": 106.7493,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=bogor-155"
-    },
-    {
-     "nama": "Simpang Tugu Kujang 2 (Arah Otista / Kebun Raya)",
-     "lokasi": "Jl. Otto Iskandardinata (Dekat Tugu Kujang), Kota Bogor",
-     "stream": "",
-     "lat": -6.60012,
-     "lon": 106.80546,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=bogor-145"
     },
     {
      "nama": "Simpang Yasmin 1 (Jl. KH R. Abdullah Bin Nuh)",
@@ -51022,17 +50175,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=banyumas-1"
     },
     {
-     "nama": "SIMPANG KEBON DALEM",
-     "lokasi": "SIMPANG KEBON DALEM (Kabupaten Banyumas)",
-     "stream": "",
-     "lat": -7.42322634982099,
-     "lon": 109.2439569654511,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "CCTV Kabupaten Banyumas",
-     "tautan": "https://cctvnusantara.com/embed?cam=banyumas-2"
-    },
-    {
      "nama": "SIMPANG KEBON DALEM BARAT",
      "lokasi": "SIMPANG KEBON DALEM BARAT (Kabupaten Banyumas)",
      "stream": "",
@@ -51075,17 +50217,6 @@
      "kategori": "jalan",
      "sumber": "CCTV Kabupaten Banyumas",
      "tautan": "https://cctvnusantara.com/embed?cam=banyumas-44"
-    },
-    {
-     "nama": "SIMPANG SAWANGAN",
-     "lokasi": "SIMPANG SAWANGAN (Kabupaten Banyumas)",
-     "stream": "",
-     "lat": -7.424356,
-     "lon": 109.226798,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "CCTV Kabupaten Banyumas",
-     "tautan": "https://cctvnusantara.com/embed?cam=banyumas-23"
     },
     {
      "nama": "SIMPANG SOKARAJA BARAT",
@@ -51731,6 +50862,17 @@
      "tautan": "https://cctvnusantara.com/embed?cam=boyolali-pojok-dispertan-119"
     },
     {
+     "nama": "Pojok Setda Timur",
+     "lokasi": "Pojok Setda Timur, Kec. Mojosongo, Kabupaten Boyolali, Jawa Tengah",
+     "stream": "",
+     "lat": -7.544271,
+     "lon": 110.611132,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=boyolali-pojok-setda-timur-137"
+    },
+    {
      "nama": "Randusari Barat",
      "lokasi": "Randusari Barat, Kec. Teras, Kabupaten Boyolali, Jawa Tengah",
      "stream": "",
@@ -51797,6 +50939,39 @@
      "tautan": "https://cctvnusantara.com/embed?cam=boyolali-simpang-solidaritas-barat-52"
     },
     {
+     "nama": "Sonolayu",
+     "lokasi": "Sonolayu, Kec. Boyolali, Kabupaten Boyolali, Jawa Tengah",
+     "stream": "",
+     "lat": -7.544456,
+     "lon": 110.60183,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=boyolali-sonolayu-62"
+    },
+    {
+     "nama": "Spbu Kemiri Arah Timur",
+     "lokasi": "Spbu Kemiri Arah Timur, Kec. Mojosongo, Kabupaten Boyolali, Jawa Tengah",
+     "stream": "",
+     "lat": -7.547791,
+     "lon": 110.609505,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=boyolali-spbu-kemiri-arah-timur-131"
+    },
+    {
+     "nama": "Sukarno Ptz",
+     "lokasi": "Sukarno Ptz, Kec. Mojosongo, Kabupaten Boyolali, Jawa Tengah",
+     "stream": "",
+     "lat": -7.538641,
+     "lon": 110.613617,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=boyolali-sukarno-ptz-125"
+    },
+    {
      "nama": "Sukarno Selatan (Dishub)",
      "lokasi": "Sukarno Selatan (Dishub), Kec. Mojosongo, Kabupaten Boyolali, Jawa Tengah",
      "stream": "",
@@ -51806,6 +50981,17 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=boyolali-sukarno-selatan-dishub-142"
+    },
+    {
+     "nama": "Terminal Penggung Barat",
+     "lokasi": "Terminal Penggung Barat, Kec. Boyolali, Kabupaten Boyolali, Jawa Tengah",
+     "stream": "",
+     "lat": -7.506158,
+     "lon": 110.578627,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=boyolali-terminal-penggung-barat-99"
     }
    ]
   },
@@ -51940,17 +51126,6 @@
      "kategori": "jalan",
      "sumber": "demakkab-livecctv",
      "tautan": "https://cctvnusantara.com/embed?cam=demakkab-livecctv_86"
-    },
-    {
-     "nama": "GAPURA PARKIR TEMBIRING DEMAK [01]",
-     "lokasi": "GAPURA PARKIR TEMBIRING DEMAK [01] (Kabupaten Demak)",
-     "stream": "",
-     "lat": -6.899249,
-     "lon": 110.637493,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "demakkab-livecctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=demakkab-livecctv_28"
     },
     {
      "nama": "Gedung NU Jl.Sultan Fattah",
@@ -52327,17 +51502,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=demakkab-livecctv_35"
     },
     {
-     "nama": "PEREMPATAN TUGU PAMONGAN GUNTUR [01]",
-     "lokasi": "PEREMPATAN TUGU PAMONGAN GUNTUR [01] (Kabupaten Demak)",
-     "stream": "",
-     "lat": -7.005449,
-     "lon": 110.60144,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "demakkab-livecctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=demakkab-livecctv_68"
-    },
-    {
      "nama": "PERTIGAAN DEPAN KABUPATEN DEMAK [1]",
      "lokasi": "PERTIGAAN DEPAN KABUPATEN DEMAK [1] (Kabupaten Demak)",
      "stream": "",
@@ -52446,6 +51610,28 @@
      "kategori": "jalan",
      "sumber": "demakkab-livecctv",
      "tautan": "https://cctvnusantara.com/embed?cam=demakkab-livecctv_265"
+    },
+    {
+     "nama": "Posko CCTV Sayung Pantura KM 8 (Arah Kudus)",
+     "lokasi": "Jl. Raya Semarang - Demak KM 8, Sayung, Demak",
+     "stream": "https://www.youtube.com/watch?v=TeIF-19D2fc",
+     "lat": -6.945735,
+     "lon": 110.496138,
+     "tipe": "youtube",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=jateng-posko-sayung-pantura-2"
+    },
+    {
+     "nama": "Posko CCTV Sayung Pantura KM 8 (Arah Semarang)",
+     "lokasi": "Jl. Raya Semarang - Demak KM 8, Sayung, Demak",
+     "stream": "https://www.youtube.com/watch?v=juwNAQvciCY",
+     "lat": -6.945951,
+     "lon": 110.495525,
+     "tipe": "youtube",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=jateng-posko-sayung-pantura-1"
     },
     {
      "nama": "SIMPANG 3 STADIUN SULTAN FATAH [02]",
@@ -52765,6 +51951,69 @@
      "kategori": "jalan",
      "sumber": "demakkab-livecctv",
      "tautan": "https://cctvnusantara.com/embed?cam=demakkab-livecctv_60"
+    }
+   ]
+  },
+  {
+   "nama": "Kabupaten Grobogan",
+   "pulau": "Jawa",
+   "provinsi": "Jawa Tengah",
+   "sumber": "CCTV Nusantara",
+   "kamera": [
+    {
+     "nama": "PA. PURWODADI - KANTIN/MUSHOLA/HALAMAN PARKIR",
+     "lokasi": "PA. PURWODADI (KANTIN/MUSHOLA/HALAMAN PARKIR)",
+     "stream": "https://papurwodadi.cctvbadilag.my.id/400951PAPURWODADI/play.html?name=835093582951509400736071",
+     "lat": -7.085397,
+     "lon": 110.915503,
+     "tipe": "iframe",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-835093582951509400736071"
+    },
+    {
+     "nama": "PA. PURWODADI - KANTIN/MUSHOLA/HALAMAN PARKIR",
+     "lokasi": "PA. PURWODADI (KANTIN/MUSHOLA/HALAMAN PARKIR)",
+     "stream": "https://papurwodadi.cctvbadilag.my.id/400951PAPURWODADI/play.html?name=146793112416646090390459",
+     "lat": -7.085905,
+     "lon": 110.915586,
+     "tipe": "iframe",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-146793112416646090390459"
+    },
+    {
+     "nama": "PA. PURWODADI - PTSP",
+     "lokasi": "PA. PURWODADI (PTSP)",
+     "stream": "https://papurwodadi.cctvbadilag.my.id/400951PAPURWODADI/play.html?name=737978613835585424478561",
+     "lat": -7.087749,
+     "lon": 110.916189,
+     "tipe": "iframe",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-737978613835585424478561"
+    },
+    {
+     "nama": "PA. PURWODADI - RUANG TUNGGU SIDANG",
+     "lokasi": "PA. PURWODADI (RUANG TUNGGU SIDANG)",
+     "stream": "https://papurwodadi.cctvbadilag.my.id/400951PAPURWODADI/play.html?name=258555491379831457697622",
+     "lat": -7.087755,
+     "lon": 110.917743,
+     "tipe": "iframe",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-258555491379831457697622"
+    },
+    {
+     "nama": "PA. PURWODADI - RUANG TUNGGU SIDANG",
+     "lokasi": "PA. PURWODADI (RUANG TUNGGU SIDANG)",
+     "stream": "https://papurwodadi.cctvbadilag.my.id/400951PAPURWODADI/play.html?name=753603831458376919358367",
+     "lat": -7.085434,
+     "lon": 110.916682,
+     "tipe": "iframe",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-753603831458376919358367"
     }
    ]
   },
@@ -53758,6 +53007,28 @@
      "tautan": "https://cctvnusantara.com/embed?cam=magelangkab-yt-z5l9VDSeeho"
     },
     {
+     "nama": "Simpang Tanjung",
+     "lokasi": "Simpang Tanjung",
+     "stream": "https://www.youtube.com/embed/5br-qZM4934",
+     "lat": -7.526864,
+     "lon": 110.188011,
+     "tipe": "youtube",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=magelangkab-yt-iol-pkE-33A"
+    },
+    {
+     "nama": "Simpang Tempuran",
+     "lokasi": "Simpang Tempuran",
+     "stream": "https://www.youtube.com/embed/jnEDRFsKkxQ",
+     "lat": -7.549666,
+     "lon": 110.161112,
+     "tipe": "youtube",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=magelangkab-yt-bo6hD1-ijHs"
+    },
+    {
      "nama": "Simpang Tugu Ireng",
      "lokasi": "Simpang Tugu Ireng, Kabupaten Magelang, Jawa Tengah",
      "stream": "https://www.youtube.com/embed/yQrbqg4oXoA",
@@ -53919,274 +53190,197 @@
    ]
   },
   {
-   "nama": "Kabupaten Purworejo",
+   "nama": "Kabupaten Rembang",
    "pulau": "Jawa",
    "provinsi": "Jawa Tengah",
    "sumber": "CCTV Nusantara",
    "kamera": [
     {
-     "nama": "Area Air Mancur Alun-Alun Purworejo",
-     "lokasi": "Area Air Mancur Alun-Alun Purworejo (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.71273,
-     "lon": 110.01056,
-     "tipe": "hls",
-     "kategori": "publik",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-area-air-mancur-alun-alun-purworejo"
-    },
-    {
-     "nama": "CCTV Alun-Alun Kutoarjo",
-     "lokasi": "CCTV Alun-Alun Kutoarjo (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.72051,
-     "lon": 109.91467,
-     "tipe": "hls",
-     "kategori": "publik",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-alun-alun-kutoarjo"
-    },
-    {
-     "nama": "CCTV Area Depan Masjid Alun-Alun Kutoarjo",
-     "lokasi": "CCTV Area Depan Masjid Alun-Alun Kutoarjo (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.71981,
-     "lon": 109.9136,
-     "tipe": "hls",
-     "kategori": "publik",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-area-depan-masjid-alun-alun-kutoarjo"
-    },
-    {
-     "nama": "CCTV Area Depan PDAM Kutoarjo",
-     "lokasi": "CCTV Area Depan PDAM Kutoarjo (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.7198,
-     "lon": 109.91359,
-     "tipe": "hls",
+     "nama": "CCTV 1 Terminal",
+     "lokasi": "Area Terminal Rembang\r\nKamera terletak di sisi kiri terminal mengarah ke barat, menampilkan pantauan arus lalu lintas jalur pantura di depan terminal.",
+     "stream": "https://www.youtube.com/embed/u3QHRT4QDJ0",
+     "lat": -6.704898,
+     "lon": 111.348161,
+     "tipe": "youtube",
      "kategori": "jalan",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-area-depan-pdam-kutoarjo"
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=rembang-92239f83-d277-42dc-8d01-729b27915910"
     },
     {
-     "nama": "CCTV Area Depan Pendopo",
-     "lokasi": "CCTV Area Depan Pendopo (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.71273,
-     "lon": 110.01056,
-     "tipe": "hls",
-     "kategori": "publik",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-area-depan-pendopo"
-    },
-    {
-     "nama": "CCTV Area Landmark Alun-Alun Kutoarjo",
-     "lokasi": "CCTV Area Landmark Alun-Alun Kutoarjo (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.72051,
-     "lon": 109.91467,
-     "tipe": "hls",
-     "kategori": "publik",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-area-landmark-alun-alun-kutoarjo"
-    },
-    {
-     "nama": "CCTV Area Tugu Clorot Alun-Alun Purworejo",
-     "lokasi": "CCTV Area Tugu Clorot Alun-Alun Purworejo (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.7116,
-     "lon": 110.00889,
-     "tipe": "hls",
-     "kategori": "publik",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-area-tugu-clorot-alun-alun-purworejo"
-    },
-    {
-     "nama": "CCTV Area Videotron Romansa Kuliner",
-     "lokasi": "CCTV Area Videotron Romansa Kuliner (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.71445,
-     "lon": 110.01213,
-     "tipe": "hls",
+     "nama": "CCTV 1 Terminal Lasem",
+     "lokasi": "Arah pandang seputar jalur Pantura Arah Timur ke Barat.\r\nMemantau arus kendaraan di jalur utama Pantura yang datang dari arah timur (Surabaya/Tuban) dan melintas di depan Terminal Lasem menuju Rembang Kota.",
+     "stream": "https://www.youtube.com/embed/WP0gkyY_8cY",
+     "lat": -6.692914,
+     "lon": 111.436121,
+     "tipe": "youtube",
      "kategori": "jalan",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-area-videotron-romansa-kuliner"
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=rembang-92239f83-d277-42dc-8d01-729b27915922"
     },
     {
-     "nama": "CCTV Area Vidtron KTA",
-     "lokasi": "CCTV Area Vidtron KTA (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.72081,
-     "lon": 109.91442,
-     "tipe": "hls",
+     "nama": "CCTV 1 Tugu Adipura Rembang",
+     "lokasi": "Pertigaan antara arah ke Pati-Tuban-Blora,\r\nLokasi depan Gedung DPRD Rembang,\r\nKamera menghadap ke arah Timur (arah Tuban).",
+     "stream": "https://www.youtube.com/embed/_DRe5Fvbx0o",
+     "lat": -6.704252,
+     "lon": 111.342085,
+     "tipe": "youtube",
      "kategori": "jalan",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-area-vidtron-kta"
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=rembang-2912d7b9-b910-431a-baa8-9f19648490f6"
     },
     {
-     "nama": "CCTV Batas Magelang",
-     "lokasi": "CCTV Batas Magelang (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.64833,
-     "lon": 110.09893,
-     "tipe": "hls",
+     "nama": "CCTV 2 BKK Lasem",
+     "lokasi": "Fokus utama Arus Lalu Lintas Arah Barat ke Timur Pantura yang ada di depan BKK Lasem.\r\nDiarahkan untuk mencakup kendaraan yang datang dari arah barat (Rembang Kota) menuju ke arah timur.",
+     "stream": "https://www.youtube.com/embed/Dka8v9wdbYs",
+     "lat": -6.692555,
+     "lon": 111.435527,
+     "tipe": "youtube",
      "kategori": "jalan",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-batas-magelang"
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=rembang-92239f83-d277-42dc-8d01-729b27915925"
     },
     {
-     "nama": "CCTV Bendung Boro",
-     "lokasi": "CCTV Bendung Boro (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.70972,
-     "lon": 110.01667,
-     "tipe": "hls",
+     "nama": "CCTV 2 Nasriah Lasem",
+     "lokasi": "Titik Simpang Utama (Perempatan Nasriyah). Kamera ini diarahkan untuk mendapatkan pandangan menyeluruh di tengah-tengah persimpangan.\r\nMencakup pergerakan kendaraan yang berbelok (misalnya, dari arah Pantura ke jalan lokal atau sebaliknya)",
+     "stream": "https://www.youtube.com/embed/JP745LhEWr8",
+     "lat": -6.697823,
+     "lon": 111.450789,
+     "tipe": "youtube",
      "kategori": "jalan",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-bendung-boro"
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=rembang-92239f83-d277-42dc-8d01-729b27915917"
     },
     {
-     "nama": "CCTV Buh Liwung",
-     "lokasi": "CCTV Buh Liwung (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.70894,
-     "lon": 110.02011,
-     "tipe": "hls",
+     "nama": "CCTV 2 Pasar Pentungan",
+     "lokasi": "Fokus utama pada Titik Simpang Tengah & Akses Pasar/Lokal\r\nDiarahkan untuk mencakup area pusat perempatan/lampu merah, serta jalur akses menuju area lokal atau Pasar Pentungan.",
+     "stream": "https://www.youtube.com/embed/EucXm7CL0UY",
+     "lat": -6.702837,
+     "lon": 111.328593,
+     "tipe": "youtube",
      "kategori": "jalan",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-buh-liwung"
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=rembang-92239f83-d277-42dc-8d01-729b27915927"
     },
     {
-     "nama": "CCTV Jogo Boyo",
-     "lokasi": "CCTV Jogo Boyo (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.75389,
-     "lon": 110.03167,
-     "tipe": "hls",
+     "nama": "CCTV 2 Pertigaan RSUD",
+     "lokasi": "Jalur Masuk RSUD dan Titik Simpang, Diarahkan ke pusat pertigaan/lampu merah, serta jalur yang menuju RSUD dr. R. Soetrasno Rembang (biasanya jalur belok).",
+     "stream": "https://www.youtube.com/embed/LvoGl3PA3A4",
+     "lat": -6.705695,
+     "lon": 111.358684,
+     "tipe": "youtube",
      "kategori": "jalan",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-jogo-boyo"
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=rembang-92239f83-d277-42dc-8d01-729b27915920"
     },
     {
-     "nama": "CCTV Kresna Duta",
-     "lokasi": "CCTV Kresna Duta (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.71306,
-     "lon": 110.00889,
-     "tipe": "hls",
+     "nama": "CCTV 2 Terminal Lasem",
+     "lokasi": "Fokus utama memantau aktivitas Terminal dan Arah Barat ke Timur.\r\nDiarahkan untuk mencakup Pintu Masuk/Keluar Terminal Lasem serta arus lalu lintas di Pantura yang datang dari barat (Rembang Kota) menuju Lasem/Surabaya.",
+     "stream": "https://www.youtube.com/embed/twOO-vZE9U4",
+     "lat": -6.692914,
+     "lon": 111.436121,
+     "tipe": "youtube",
      "kategori": "jalan",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-kresna-duta"
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=rembang-92239f83-d277-42dc-8d01-729b27915923"
     },
     {
-     "nama": "CCTV Pasar Baledono",
-     "lokasi": "CCTV Pasar Baledono (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.72722,
-     "lon": 109.98778,
-     "tipe": "hls",
-     "kategori": "publik",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-pasar-baledono"
-    },
-    {
-     "nama": "CCTV Romansa Purworejo",
-     "lokasi": "CCTV Romansa Purworejo (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.71445,
-     "lon": 110.01213,
-     "tipe": "hls",
+     "nama": "CCTV Galonan 1 Rembang",
+     "lokasi": "Area Perempatan Galonan Rembang (jalur utama menuju pusat kota)\r\nKamera mengarah ke lalu lintas dua arah dan area sekitar pertokoan/pemukiman",
+     "stream": "https://www.youtube.com/embed/R8Y-De53faA",
+     "lat": -6.732886,
+     "lon": 111.353908,
+     "tipe": "youtube",
      "kategori": "jalan",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-romansa-purworejo"
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=rembang-92239f83-d277-42dc-8d01-729b27915909"
     },
     {
-     "nama": "CCTV Simpang Arta Tirta",
-     "lokasi": "CCTV Simpang Arta Tirta (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.69861,
-     "lon": 110.06278,
-     "tipe": "hls",
+     "nama": "CCTV Jaeni Selatan 2 Rembang",
+     "lokasi": "Perempatan di tengah Kota Rembang,\r\nLokasi persimpangan antara Jl. RA. Kartini, Jl. Dr. Wahidin, Jl. Dr. Soetomo,\r\nKamera menghadap ke arah Selatan (arah Pasar Rembang / arah Blora).",
+     "stream": "https://www.youtube.com/embed/jtiOSi2Zw-k",
+     "lat": -6.706629,
+     "lon": 111.34169,
+     "tipe": "youtube",
      "kategori": "jalan",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-simpang-arta-tirta"
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=rembang-92239f83-d277-42dc-8d01-729b27915904"
     },
     {
-     "nama": "CCTV Simpang Brengkelan",
-     "lokasi": "CCTV Simpang Brengkelan (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.70972,
-     "lon": 110.04694,
-     "tipe": "hls",
+     "nama": "CCTV Jaeni Utara 1 Rembang",
+     "lokasi": "Perempatan di tengah Kota Rembang,\r\nLokasi persimpangan antara Jl. RA. Kartini, Jl. Dr. Wahidin, Jl. Dr. Soetomo,\r\nKamera menghadap ke arah Utara (arah Pantura / arah Gedung DRPD Rembang).",
+     "stream": "https://www.youtube.com/embed/GDVuGy3K-Eg",
+     "lat": -6.706629,
+     "lon": 111.34169,
+     "tipe": "youtube",
      "kategori": "jalan",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-simpang-brengkelan"
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=rembang-92239f83-d277-42dc-8d01-729b27915903"
     },
     {
-     "nama": "CCTV Simpang MT Haryono KTA",
-     "lokasi": "CCTV Simpang MT Haryono KTA (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.71972,
-     "lon": 109.91556,
-     "tipe": "hls",
+     "nama": "CCTV Stasiun Selatan 2 Rembang",
+     "lokasi": "Perempatan di ex-Stasiun Kota Rembang,\r\nLokasi persimpangan antara Jl. RA. Kartini, Jl. Jenderal Ahmad Yani, Jl. Mojopahit,\r\nKamera menghadap ke arah Selatan (arah Pasar Rembang / arah Blora).",
+     "stream": "https://www.youtube.com/embed/lHhImnzP_1E",
+     "lat": -6.709304,
+     "lon": 111.341248,
+     "tipe": "youtube",
      "kategori": "jalan",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-simpang-mt-haryono-kta"
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=rembang-92239f83-d277-42dc-8d01-729b27915907"
     },
     {
-     "nama": "CCTV Stasiun Wojo",
-     "lokasi": "CCTV Stasiun Wojo (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.73194,
-     "lon": 110.02361,
-     "tipe": "hls",
-     "kategori": "transportasi",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-stasiun-wojo"
+     "nama": "CCTV Stasiun Utara 1 Rembang",
+     "lokasi": "Perempatan di ex-Stasiun Kota Rembang,\r\nLokasi persimpangan antara Jl. RA. Kartini, Jl. Jenderal Ahmad Yani, Jl. Mojopahit,\r\nKamera menghadap ke arah Utara (arah Pantura / arah Gedung DPRD Rembang).",
+     "stream": "https://www.youtube.com/embed/xacGzzApCWE",
+     "lat": -6.709304,
+     "lon": 111.341248,
+     "tipe": "youtube",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=rembang-92239f83-d277-42dc-8d01-729b27915905"
     },
     {
-     "nama": "CCTV Taman Bagelen",
-     "lokasi": "CCTV Taman Bagelen (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.73472,
-     "lon": 110.03722,
-     "tipe": "hls",
-     "kategori": "wisata",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-taman-bagelen"
+     "nama": "CCTV Tugu Pasar 1 Rembang",
+     "lokasi": "Area Tugu Pasar Rembang (persimpangan utama menuju Pasar Rembang)\r\nKamera menghadap ke arus lalu lintas utama dan area depan pasar",
+     "stream": "https://www.youtube.com/embed/7YGzcqHIEbo",
+     "lat": -6.710357,
+     "lon": 111.341629,
+     "tipe": "youtube",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=rembang-92239f83-d277-42dc-8d01-729b27915908"
     },
     {
-     "nama": "CCTV Taman Kota",
-     "lokasi": "CCTV Taman Kota (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.71639,
-     "lon": 110.00639,
-     "tipe": "hls",
-     "kategori": "wisata",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-taman-kota"
+     "nama": "PA. REMBANG - KANTIN/MUSHOLA/HALAMAN PARKIR",
+     "lokasi": "PA. REMBANG (KANTIN/MUSHOLA/HALAMAN PARKIR)",
+     "stream": "https://parembang.cctvbadilag2.my.id/400998PAREMBANG/play.html?name=448174941034767351350260",
+     "lat": -6.709476,
+     "lon": 111.343087,
+     "tipe": "iframe",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-448174941034767351350260"
     },
     {
-     "nama": "CCTV Terminal Kongsi",
-     "lokasi": "CCTV Terminal Kongsi (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.71167,
-     "lon": 110.01111,
-     "tipe": "hls",
-     "kategori": "transportasi",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-terminal-kongsi"
+     "nama": "PA. REMBANG - PTSP",
+     "lokasi": "PA. REMBANG (PTSP)",
+     "stream": "https://parembang.cctvbadilag2.my.id/400998PAREMBANG/play.html?name=595478719187296057771155",
+     "lat": -6.70946,
+     "lon": 111.341353,
+     "tipe": "iframe",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-595478719187296057771155"
     },
     {
-     "nama": "CCTV Tugu Catur Alun-Alun Purworejo",
-     "lokasi": "CCTV Tugu Catur Alun-Alun Purworejo (Kabupaten Purworejo)",
-     "stream": "",
-     "lat": -7.71273,
-     "lon": 110.01056,
-     "tipe": "hls",
-     "kategori": "publik",
-     "sumber": "purworejokab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=purworejokab-cctv-tugu-catur-alun-alun-purworejo"
+     "nama": "PA. REMBANG - RUANG TUNGGU SIDANG",
+     "lokasi": "PA. REMBANG (RUANG TUNGGU SIDANG)",
+     "stream": "https://parembang.cctvbadilag2.my.id/400998PAREMBANG/play.html?name=210106801125045999069536",
+     "lat": -6.706289,
+     "lon": 111.343704,
+     "tipe": "iframe",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-210106801125045999069536"
     }
    ]
   },
@@ -54249,17 +53443,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=temanggung-f6e8d2b7-4c5d-41de-9c3a-9a9f1b8a0a0"
     },
     {
-     "nama": "CCTV Depan Kominfo / MPP",
-     "lokasi": "Kantor Diskominfo Temanggung, Kabupaten Temanggung",
-     "stream": "",
-     "lat": -7.3193228,
-     "lon": 110.1851314,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=temanggung-a8d7b9c1-2e5f-4c3a-9f6b-7e1d8c4a2b01"
-    },
-    {
      "nama": "CCTV Depan Polsek Kranggan",
      "lokasi": "Depan Polsek Kranggan, Kabupaten Temanggung",
      "stream": "",
@@ -54271,37 +53454,15 @@
      "tautan": "https://cctvnusantara.com/embed?cam=temanggung-0d73e8b1-bb69-4d91-8c6b-93c01f8c8209"
     },
     {
-     "nama": "CCTV Geneng-Walitelon",
+     "nama": "CCTV Geneng-Kaloran",
      "lokasi": "CCTV berlokasi di Perempatan Geneng Temanggung",
      "stream": "",
-     "lat": -7.3151071,
-     "lon": 110.1989334,
+     "lat": -7.3150914,
+     "lon": 110.1990811,
      "tipe": "hls",
      "kategori": "jalan",
      "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=temanggung-9a7d2f3e-6a44-4c9e-9c7f-1b3a9e0f6d02"
-    },
-    {
-     "nama": "CCTV Jumo 1",
-     "lokasi": "CCTV berlokasi di depan Kantor Kecamatan Jumo",
-     "stream": "",
-     "lat": -7.227915,
-     "lon": 110.1105263,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=temanggung-2e8b4c7d-5a6f-4e91-9d77-1f3a6b7c1010"
-    },
-    {
-     "nama": "CCTV Jumo 2",
-     "lokasi": "Jumo, Kabupaten Temanggung",
-     "stream": "",
-     "lat": -7.2273529,
-     "lon": 110.1052052,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=temanggung-9c6e9f3b-1f2d-4b91-8c77-9a9f1b8a0a2"
+     "tautan": "https://cctvnusantara.com/embed?cam=temanggung-6b4a1e88-7c12-4d7f-90ad-1d28c9b02c03"
     },
     {
      "nama": "CCTV Kandangan",
@@ -54313,39 +53474,6 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=temanggung-e1f4a6b8-9c2d-4a0e-9b55-7c8d9e0f1212"
-    },
-    {
-     "nama": "CCTV Kedu",
-     "lokasi": "CCTV berlokasi di perempatan Pasar Kedu",
-     "stream": "",
-     "lat": -7.2768128,
-     "lon": 110.1524485,
-     "tipe": "hls",
-     "kategori": "publik",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=temanggung-1b2c3d4e-5f6a-4b91-8c77-9d0e1f2a1616"
-    },
-    {
-     "nama": "CCTV Kranggan-Pringsurat",
-     "lokasi": "Kranggan-Pringsurat, Kabupaten Temanggung",
-     "stream": "",
-     "lat": -7.3500182,
-     "lon": 110.2133431,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=temanggung-c12f4d2e-88b4-4a77-a9b4-2b22b9a5b104"
-    },
-    {
-     "nama": "CCTV Simpang 4 Geneng IP Dome",
-     "lokasi": "CCTV berlokasi di perempatan Geneng Temanggung",
-     "stream": "",
-     "lat": -7.31506,
-     "lon": 110.1987845,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=temanggung-7b3e9c41-5d8f-4a72-b1e6-9f2c8d7a4e13"
     },
     {
      "nama": "CCTV Terminal Madureso",
@@ -54412,94 +53540,6 @@
      "kategori": "pengadilan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-507955884947768718195484"
-    },
-    {
-     "nama": "PDAM Parakan",
-     "lokasi": "CCTV berlokasi di pertigaan PDAM Parakan",
-     "stream": "",
-     "lat": -7.2873054,
-     "lon": 110.0929991,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "Diskominfo Kab. Temanggung",
-     "tautan": "https://cctvnusantara.com/embed?cam=temanggung-pdam-parakan"
-    },
-    {
-     "nama": "Pasar Kliwon Temanggung",
-     "lokasi": "CCTV berlokasi di Pasar Kliwon Temanggung",
-     "stream": "",
-     "lat": -7.3173082,
-     "lon": 110.180837,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "Diskominfo Kab. Temanggung",
-     "tautan": "https://cctvnusantara.com/embed?cam=temanggung-pasar-kliwon-temanggung"
-    },
-    {
-     "nama": "Pasar Ngadirejo",
-     "lokasi": "CCTV berlokasi di Pasar Ngadirejo",
-     "stream": "",
-     "lat": -7.240752,
-     "lon": 110.0624761,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "Diskominfo Kab. Temanggung",
-     "tautan": "https://cctvnusantara.com/embed?cam=temanggung-pasar-ngadirejo"
-    },
-    {
-     "nama": "Pikatan",
-     "lokasi": "CCTV berlokasi di Pikatan",
-     "stream": "",
-     "lat": -7.3356182,
-     "lon": 110.1812169,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "Diskominfo Kab. Temanggung",
-     "tautan": "https://cctvnusantara.com/embed?cam=temanggung-pikatan"
-    },
-    {
-     "nama": "Pringsurat",
-     "lokasi": "CCTV berlokasi di Kecamatan Pringsurat",
-     "stream": "",
-     "lat": -7.358251,
-     "lon": 110.2871288,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "Diskominfo Kab. Temanggung",
-     "tautan": "https://cctvnusantara.com/embed?cam=temanggung-pringsurat"
-    },
-    {
-     "nama": "Sari Ayam 2",
-     "lokasi": "CCTV berlokasi di Pertigaan Sari Ayam Parakan",
-     "stream": "",
-     "lat": -7.2843647,
-     "lon": 110.1097662,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "Diskominfo Kab. Temanggung",
-     "tautan": "https://cctvnusantara.com/embed?cam=temanggung-sari-ayam-2"
-    },
-    {
-     "nama": "Sariayam 1",
-     "lokasi": "CCTV berlokasi di Pertigaan Sariayam Parakan",
-     "stream": "",
-     "lat": -7.2843319,
-     "lon": 110.1100273,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "Diskominfo Kab. Temanggung",
-     "tautan": "https://cctvnusantara.com/embed?cam=temanggung-sariayam-1"
-    },
-    {
-     "nama": "Satpol",
-     "lokasi": "CCTV berlokasi di Satpol",
-     "stream": "",
-     "lat": -7.2980027,
-     "lon": 110.1830558,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "Diskominfo Kab. Temanggung",
-     "tautan": "https://cctvnusantara.com/embed?cam=temanggung-satpol"
     }
    ]
   },
@@ -54834,28 +53874,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=magelangkota-cctv-sumberwaras-selatan"
     },
     {
-     "nama": "CCTV CCTV-Simpang Alun Alun - Telkom",
-     "lokasi": "CCTV CCTV-Simpang Alun Alun - Telkom (Kota Magelang)",
-     "stream": "",
-     "lat": -7.4766553,
-     "lon": 110.2175796,
-     "tipe": "hls",
-     "kategori": "publik",
-     "sumber": "magelangkota-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=magelangkota-cctv-simpang-alun-alun-telkom"
-    },
-    {
-     "nama": "CCTV CCTV-Simpang Alun Alun - Water Fountain",
-     "lokasi": "CCTV CCTV-Simpang Alun Alun - Water Fountain (Kota Magelang)",
-     "stream": "",
-     "lat": -7.4768042,
-     "lon": 110.2176654,
-     "tipe": "hls",
-     "kategori": "publik",
-     "sumber": "magelangkota-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=magelangkota-cctv-simpang-alun-alun-water-fountain"
-    },
-    {
      "nama": "CCTV CCTV-T. BADAAN-JL.UTARA",
      "lokasi": "CCTV CCTV-T. BADAAN-JL.UTARA (Kota Magelang)",
      "stream": "",
@@ -54944,17 +53962,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=magelangkota-gor-samapta-diluar-utara"
     },
     {
-     "nama": "CCTV Kali kota Selatan",
-     "lokasi": "CCTV Kali kota Selatan (Kota Magelang)",
-     "stream": "",
-     "lat": -7.4737404,
-     "lon": 110.2170861,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "magelangkota-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=magelangkota-kali-kota-selatan"
-    },
-    {
      "nama": "CCTV Kec Magelang Tengah - Lapangan",
      "lokasi": "CCTV Kec Magelang Tengah - Lapangan (Kota Magelang)",
      "stream": "",
@@ -54964,28 +53971,6 @@
      "kategori": "jalan",
      "sumber": "magelangkota-cctv",
      "tautan": "https://cctvnusantara.com/embed?cam=magelangkota-kec-magelang-tengah-lapangan"
-    },
-    {
-     "nama": "CCTV PTZ-Aloon Aloon - PTZ Tengah",
-     "lokasi": "CCTV PTZ-Aloon Aloon - PTZ Tengah (Kota Magelang)",
-     "stream": "",
-     "lat": -7.4767437,
-     "lon": 110.2177814,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "magelangkota-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=magelangkota-ptz-aloon-aloon-ptz-tengah"
-    },
-    {
-     "nama": "CCTV Panti Perri - Barat",
-     "lokasi": "CCTV Panti Perri - Barat (Kota Magelang)",
-     "stream": "",
-     "lat": -7.4732446,
-     "lon": 110.2163149,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "magelangkota-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=magelangkota-panti-perri-barat"
     },
     {
      "nama": "CCTV Pertigaan BNI",
@@ -55843,28 +54828,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=pekalongan-4e2ab579-1"
     },
     {
-     "nama": "CCTV Bojong – Kajen",
-     "lokasi": "Ruas jalan Bojong – Kajen, Kabupaten Pekalongan",
-     "stream": "",
-     "lat": -6.95500635,
-     "lon": 109.60766179,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "Dishub Kab. Pekalongan",
-     "tautan": "https://cctvnusantara.com/embed?cam=pekalongan-kab-bojong-kajen"
-    },
-    {
-     "nama": "CCTV Bojong – Surobayan",
-     "lokasi": "Ruas jalan Bojong – Surobayan, Kabupaten Pekalongan",
-     "stream": "",
-     "lat": -6.954883,
-     "lon": 109.607719,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "Dishub Kab. Pekalongan",
-     "tautan": "https://cctvnusantara.com/embed?cam=pekalongan-kab-bojong-surobayan"
-    },
-    {
      "nama": "CCTV Bojong – Wiradesa",
      "lokasi": "Ruas jalan Bojong – Wiradesa, Kabupaten Pekalongan",
      "stream": "",
@@ -55940,39 +54903,6 @@
      "kategori": "jalan",
      "sumber": "Dishub Kab. Pekalongan",
      "tautan": "https://cctvnusantara.com/embed?cam=pekalongan-kab-titiknolkajen-utara"
-    },
-    {
-     "nama": "CCTV Tuguduren Karanganyar 1",
-     "lokasi": "CCTV Tuguduren Karanganyar 1",
-     "stream": "",
-     "lat": -7.0318,
-     "lon": 109.625164,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "Dishub Kab. Pekalongan",
-     "tautan": "https://cctvnusantara.com/embed?cam=pekalongan-kab-tuguduren-karanganyar-1"
-    },
-    {
-     "nama": "CCTV Tuguduren Karanganyar 2",
-     "lokasi": "CCTV Tuguduren Karanganyar 2",
-     "stream": "",
-     "lat": -7.031825,
-     "lon": 109.625234,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "Dishub Kab. Pekalongan",
-     "tautan": "https://cctvnusantara.com/embed?cam=pekalongan-kab-tuguduren-karanganyar-2"
-    },
-    {
-     "nama": "CCTV Tuguduren Karanganyar 3",
-     "lokasi": "CCTV Tuguduren Karanganyar 3",
-     "stream": "",
-     "lat": -7.031798,
-     "lon": 109.625195,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "Dishub Kab. Pekalongan",
-     "tautan": "https://cctvnusantara.com/embed?cam=pekalongan-kab-tuguduren-karanganyar-3"
     },
     {
      "nama": "CCTV Wiradesa – Barat",
@@ -56541,6 +55471,105 @@
      "tautan": "https://cctvnusantara.com/embed?cam=pantausemar-8890"
     },
     {
+     "nama": "PA. AMBARAWA - KANTIN/MUSHOLA/HALAMAN PARKIR",
+     "lokasi": "PA. AMBARAWA (Kabupaten Semarang)",
+     "stream": "https://paambarawa.cctvbadilag2.my.id/402593PAAMBARAWA/play.html?name=668976655653111588914427",
+     "lat": -7.261527,
+     "lon": 110.404694,
+     "tipe": "iframe",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-668976655653111588914427"
+    },
+    {
+     "nama": "PA. AMBARAWA - KANTIN/MUSHOLA/HALAMAN PARKIR",
+     "lokasi": "PA. AMBARAWA (Kabupaten Semarang)",
+     "stream": "https://paambarawa.cctvbadilag2.my.id/402593PAAMBARAWA/play.html?name=408631496270858686312256",
+     "lat": -7.258845,
+     "lon": 110.40436,
+     "tipe": "iframe",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-408631496270858686312256"
+    },
+    {
+     "nama": "PA. AMBARAWA - PTSP",
+     "lokasi": "PA. AMBARAWA (Kabupaten Semarang)",
+     "stream": "https://paambarawa.cctvbadilag2.my.id/402593PAAMBARAWA/play.html?name=051915903242114167847995",
+     "lat": -7.261326,
+     "lon": 110.404178,
+     "tipe": "iframe",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-051915903242114167847995"
+    },
+    {
+     "nama": "PA. AMBARAWA - RUANG TUNGGU SIDANG",
+     "lokasi": "PA. AMBARAWA (Kabupaten Semarang)",
+     "stream": "https://paambarawa.cctvbadilag2.my.id/402593PAAMBARAWA/play.html?name=201438190273200628816053",
+     "lat": -7.259875,
+     "lon": 110.402074,
+     "tipe": "iframe",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-201438190273200628816053"
+    },
+    {
+     "nama": "PA. AMBARAWA - RUANG TUNGGU SIDANG",
+     "lokasi": "PA. AMBARAWA (Kabupaten Semarang)",
+     "stream": "https://paambarawa.cctvbadilag2.my.id/402593PAAMBARAWA/play.html?name=835603080216568473109618",
+     "lat": -7.261499,
+     "lon": 110.401187,
+     "tipe": "iframe",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-835603080216568473109618"
+    },
+    {
+     "nama": "PA. SEMARANG - KANTIN/MUSHOLA/HALAMAN PARKIR",
+     "lokasi": "PA. SEMARANG (KANTIN/MUSHOLA/HALAMAN PARKIR)",
+     "stream": "https://pasemarang.cctvbadilag.my.id/400911PASEMARANG/play.html?name=259187629485580036297444",
+     "lat": -6.966729,
+     "lon": 110.414519,
+     "tipe": "iframe",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-259187629485580036297444"
+    },
+    {
+     "nama": "PA. SEMARANG - PTSP",
+     "lokasi": "PA. SEMARANG (PTSP)",
+     "stream": "https://pasemarang.cctvbadilag.my.id/400911PASEMARANG/play.html?name=732569255745925893285146",
+     "lat": -6.964924,
+     "lon": 110.416363,
+     "tipe": "iframe",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-732569255745925893285146"
+    },
+    {
+     "nama": "PA. SEMARANG - PTSP",
+     "lokasi": "PA. SEMARANG (PTSP)",
+     "stream": "https://pasemarang.cctvbadilag.my.id/400911PASEMARANG/play.html?name=460235687004626376845558",
+     "lat": -6.967772,
+     "lon": 110.415879,
+     "tipe": "iframe",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-460235687004626376845558"
+    },
+    {
+     "nama": "PA. SEMARANG - RUANG TUNGGU SIDANG",
+     "lokasi": "PA. SEMARANG (RUANG TUNGGU SIDANG)",
+     "stream": "https://pasemarang.cctvbadilag.my.id/400911PASEMARANG/play.html?name=034645762529047600434701",
+     "lat": -6.966435,
+     "lon": 110.41454,
+     "tipe": "iframe",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-034645762529047600434701"
+    },
+    {
      "nama": "PA. SEMARANG - RUANG TUNGGU SIDANG",
      "lokasi": "PA. SEMARANG (RUANG TUNGGU SIDANG)",
      "stream": "https://pasemarang.cctvbadilag.my.id/400911PASEMARANG/play.html?name=493135217232695432111972",
@@ -56684,6 +55713,17 @@
      "tautan": "https://cctvnusantara.com/embed?cam=semarang-pb-ee6c85098433d9c7"
     },
     {
+     "nama": "Pantau Banjir - Banger-Pompa",
+     "lokasi": "Banger-Pompa, Kota Semarang",
+     "stream": "",
+     "lat": -6.997142,
+     "lon": 110.438273,
+     "tipe": "hls",
+     "kategori": "publik",
+     "sumber": "Pemkot Semarang (PantauBanjir)",
+     "tautan": "https://cctvnusantara.com/embed?cam=semarang-pb-a5029b15ba43203c"
+    },
+    {
      "nama": "Pantau Banjir - Banger-SD-IN",
      "lokasi": "Banger-SD-IN, Kota Semarang",
      "stream": "",
@@ -56750,6 +55790,17 @@
      "tautan": "https://cctvnusantara.com/embed?cam=semarang-pb-ed6e27ba93f5c3c4"
     },
     {
+     "nama": "Pantau Banjir - Bulu Drain-IN",
+     "lokasi": "Bulu Drain-IN, Kota Semarang",
+     "stream": "",
+     "lat": -6.981567,
+     "lon": 110.400924,
+     "tipe": "hls",
+     "kategori": "publik",
+     "sumber": "Pemkot Semarang (PantauBanjir)",
+     "tautan": "https://cctvnusantara.com/embed?cam=semarang-pb-ed64ee69d2bfd1c2"
+    },
+    {
      "nama": "Pantau Banjir - Bulu Drain-OUT",
      "lokasi": "Bulu Drain-OUT, Kota Semarang",
      "stream": "",
@@ -56794,28 +55845,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=semarang-pb-9a021b5b79a5f443"
     },
     {
-     "nama": "Pantau Banjir - Gdg Senjata-IN",
-     "lokasi": "Gdg Senjata-IN, Kota Semarang",
-     "stream": "",
-     "lat": -6.988648,
-     "lon": 110.418486,
-     "tipe": "hls",
-     "kategori": "publik",
-     "sumber": "Pemkot Semarang (PantauBanjir)",
-     "tautan": "https://cctvnusantara.com/embed?cam=semarang-pb-5beb7481ce7a983e"
-    },
-    {
-     "nama": "Pantau Banjir - Gudang Senjata_Out",
-     "lokasi": "Gudang Senjata_Out, Kota Semarang",
-     "stream": "",
-     "lat": -6.997189,
-     "lon": 110.41609,
-     "tipe": "hls",
-     "kategori": "publik",
-     "sumber": "Pemkot Semarang (PantauBanjir)",
-     "tautan": "https://cctvnusantara.com/embed?cam=semarang-pb-b05de648822ce65c"
-    },
-    {
      "nama": "Pantau Banjir - IPdome-Madukoro",
      "lokasi": "IPdome-Madukoro, Kota Semarang",
      "stream": "",
@@ -56836,6 +55865,17 @@
      "kategori": "publik",
      "sumber": "Pemkot Semarang (PantauBanjir)",
      "tautan": "https://cctvnusantara.com/embed?cam=semarang-pb-7e8ea7b27edc07fd"
+    },
+    {
+     "nama": "Pantau Banjir - Jinunjung_Bendung",
+     "lokasi": "Jinunjung_Bendung, Kota Semarang",
+     "stream": "",
+     "lat": -7.005955,
+     "lon": 110.437109,
+     "tipe": "hls",
+     "kategori": "publik",
+     "sumber": "Pemkot Semarang (PantauBanjir)",
+     "tautan": "https://cctvnusantara.com/embed?cam=semarang-pb-55987ebefc808e8e"
     },
     {
      "nama": "Pantau Banjir - Jinunjung_Halaman",
@@ -57047,17 +56087,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=semarang-pb-1d3d0d0c04c6f079"
     },
     {
-     "nama": "Pantau Banjir - Kol Sugiono_IN",
-     "lokasi": "Kol Sugiono_IN, Kota Semarang",
-     "stream": "",
-     "lat": -7.016394,
-     "lon": 110.416521,
-     "tipe": "hls",
-     "kategori": "publik",
-     "sumber": "Pemkot Semarang (PantauBanjir)",
-     "tautan": "https://cctvnusantara.com/embed?cam=semarang-pb-a5055ee39a1d2c88"
-    },
-    {
      "nama": "Pantau Banjir - Kol.Sugiono_Gerbang",
      "lokasi": "Kol.Sugiono_Gerbang, Kota Semarang",
      "stream": "",
@@ -57067,17 +56096,6 @@
      "kategori": "publik",
      "sumber": "Pemkot Semarang (PantauBanjir)",
      "tautan": "https://cctvnusantara.com/embed?cam=semarang-pb-c2011c0c4b61ab23"
-    },
-    {
-     "nama": "Pantau Banjir - Lanal-OUT",
-     "lokasi": "Lanal-OUT, Kota Semarang",
-     "stream": "",
-     "lat": -7.014216,
-     "lon": 110.431469,
-     "tipe": "hls",
-     "kategori": "publik",
-     "sumber": "Pemkot Semarang (PantauBanjir)",
-     "tautan": "https://cctvnusantara.com/embed?cam=semarang-pb-2b51fa4a4c8f2885"
     },
     {
      "nama": "Pantau Banjir - Madukoro_Depan",
@@ -57133,17 +56151,6 @@
      "kategori": "publik",
      "sumber": "Pemkot Semarang (PantauBanjir)",
      "tautan": "https://cctvnusantara.com/embed?cam=semarang-pb-e8cd4f7d8421d0f3"
-    },
-    {
-     "nama": "Pantau Banjir - Mberok Baru_Pompa",
-     "lokasi": "Mberok Baru_Pompa, Kota Semarang",
-     "stream": "",
-     "lat": -6.971997,
-     "lon": 110.426166,
-     "tipe": "hls",
-     "kategori": "publik",
-     "sumber": "Pemkot Semarang (PantauBanjir)",
-     "tautan": "https://cctvnusantara.com/embed?cam=semarang-pb-c8de9414676a3339"
     },
     {
      "nama": "Pantau Banjir - Mberok Out",
@@ -57452,6 +56459,17 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=pantausemar-1307"
+    },
+    {
+     "nama": "TUGUMUDA",
+     "lokasi": "TUGUMUDA, Kota Semarang",
+     "stream": "",
+     "lat": -6.9843574,
+     "lon": 110.40915,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": "Dishub Semarang (PantauSemar)",
+     "tautan": "https://cctvnusantara.com/embed?cam=semarang-ps-tugumuda"
     },
     {
      "nama": "Tol Semarang A/B/C - GT GAYAMSARI ENTRANCE",
@@ -58463,6 +57481,17 @@
      "tautan": "https://cctvnusantara.com/embed?cam=surakarta-53"
     },
     {
+     "nama": "ATCS Surakarta - OVERPASS MANAHAN",
+     "lokasi": "Kota Surakarta (Solo) - OVERPASS MANAHAN",
+     "stream": "",
+     "lat": -7.558,
+     "lon": 110.8228,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=surakarta-55"
+    },
+    {
      "nama": "ATCS Surakarta - PAJANG",
      "lokasi": "Kota Surakarta (Solo) - PAJANG",
      "stream": "",
@@ -58947,17 +57976,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=sukoharjo-puskesmas-grogol"
     },
     {
-     "nama": "Simpang 4 Kartasura",
-     "lokasi": "Simpang 4 Kartasura, Kabupaten Sukoharjo, Jawa Tengah",
-     "stream": "",
-     "lat": -7.552408318221486,
-     "lon": 110.74223090059478,
-     "tipe": "snapshot",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=sukoharjo-simpang-4-kartasura"
-    },
-    {
      "nama": "Simpang Djlopo",
      "lokasi": "Simpang Djlopo, Kabupaten Sukoharjo, Jawa Tengah",
      "stream": "",
@@ -59000,17 +58018,6 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=sukoharjo-simpang-rsud"
-    },
-    {
-     "nama": "Simpang Sanggung",
-     "lokasi": "Simpang Sanggung, Kabupaten Sukoharjo, Jawa Tengah",
-     "stream": "",
-     "lat": -7.591391267376627,
-     "lon": 110.70436215543651,
-     "tipe": "snapshot",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=sukoharjo-simpang-sanggung"
     },
     {
      "nama": "Simpang Singopuran",
@@ -59057,17 +58064,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=sukoharjo-simpang-the-park"
     },
     {
-     "nama": "Simpang Univet",
-     "lokasi": "Simpang Univet, Kabupaten Sukoharjo, Jawa Tengah",
-     "stream": "",
-     "lat": -7.666057706735675,
-     "lon": 110.8370090153061,
-     "tipe": "snapshot",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=sukoharjo-simpang-univet"
-    },
-    {
      "nama": "Terminal Sukoharjo",
      "lokasi": "Terminal Sukoharjo, Kabupaten Sukoharjo, Jawa Tengah",
      "stream": "",
@@ -59077,17 +58073,6 @@
      "kategori": "publik",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=sukoharjo-terminal-sukoharjo"
-    },
-    {
-     "nama": "Utara POM Bulakrejo",
-     "lokasi": "Utara POM Bulakrejo, Kabupaten Sukoharjo, Jawa Tengah",
-     "stream": "",
-     "lat": -7.637797034631121,
-     "lon": 110.82827596136424,
-     "tipe": "snapshot",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=sukoharjo-utara-pom-bulakrejo"
     }
    ]
   },
@@ -59291,322 +58276,6 @@
      "kategori": "jalan",
      "sumber": "Diskominfo Pemalang",
      "tautan": "https://cctvnusantara.com/embed?cam=pemalang-tiptopselatan"
-    }
-   ]
-  },
-  {
-   "nama": "Rembang",
-   "pulau": "Jawa",
-   "provinsi": "Jawa Tengah",
-   "sumber": "CCTV Nusantara",
-   "kamera": [
-    {
-     "nama": "Kantor BKK Lasem 1 - Rembang",
-     "lokasi": "Kantor BKK Lasem 1 - Rembang, Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.692555,
-     "lon": 111.435527,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-14"
-    },
-    {
-     "nama": "Kantor BKK Lasem 2 - Rembang",
-     "lokasi": "Kantor BKK Lasem 2 - Rembang, Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.692555,
-     "lon": 111.435527,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-27"
-    },
-    {
-     "nama": "PA. REMBANG - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PA. REMBANG (KANTIN/MUSHOLA/HALAMAN PARKIR)",
-     "stream": "https://parembang.cctvbadilag2.my.id/400998PAREMBANG/play.html?name=448174941034767351350260",
-     "lat": -6.709476,
-     "lon": 111.343087,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-448174941034767351350260"
-    },
-    {
-     "nama": "PA. REMBANG - PTSP",
-     "lokasi": "PA. REMBANG (PTSP)",
-     "stream": "https://parembang.cctvbadilag2.my.id/400998PAREMBANG/play.html?name=595478719187296057771155",
-     "lat": -6.70946,
-     "lon": 111.341353,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-595478719187296057771155"
-    },
-    {
-     "nama": "PA. REMBANG - RUANG TUNGGU SIDANG",
-     "lokasi": "PA. REMBANG (RUANG TUNGGU SIDANG)",
-     "stream": "https://parembang.cctvbadilag2.my.id/400998PAREMBANG/play.html?name=210106801125045999069536",
-     "lat": -6.706289,
-     "lon": 111.343704,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-210106801125045999069536"
-    },
-    {
-     "nama": "Pasar Pentungan 1 (Arus Utama) - Rembang",
-     "lokasi": "Pasar Pentungan 1 (Arus Utama) - Rembang, Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.702837,
-     "lon": 111.328593,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-15"
-    },
-    {
-     "nama": "Pasar Pentungan 2 (Akses Pasar) - Rembang",
-     "lokasi": "Pasar Pentungan 2 (Akses Pasar) - Rembang, Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.702837,
-     "lon": 111.328593,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-16"
-    },
-    {
-     "nama": "Perempatan Galonan 1 - Rembang",
-     "lokasi": "Perempatan Galonan 1 - Rembang, Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.732886,
-     "lon": 111.353908,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-22"
-    },
-    {
-     "nama": "Perempatan Jaeni 1 (Arah Utara) - Rembang",
-     "lokasi": "Perempatan Jaeni 1 (Arah Utara) - Rembang, Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.706629,
-     "lon": 111.34169,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-1"
-    },
-    {
-     "nama": "Perempatan Jaeni 2 (Arah Selatan) - Rembang",
-     "lokasi": "Perempatan Jaeni 2 (Arah Selatan) - Rembang, Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.706629,
-     "lon": 111.34169,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-2"
-    },
-    {
-     "nama": "Pertigaan Celangapan 1 - Rembang",
-     "lokasi": "Pertigaan Celangapan 1 - Rembang, Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.706864,
-     "lon": 111.374934,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-28"
-    },
-    {
-     "nama": "Pertigaan RSUD Rembang 1 (Arah Barat)",
-     "lokasi": "Pertigaan RSUD Rembang 1 (Arah Barat), Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.705695,
-     "lon": 111.358684,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-10"
-    },
-    {
-     "nama": "Pertigaan RSUD Rembang 2 (Akses RSUD)",
-     "lokasi": "Pertigaan RSUD Rembang 2 (Akses RSUD), Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.705695,
-     "lon": 111.358684,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-11"
-    },
-    {
-     "nama": "Pertigaan RSUD Rembang 3 (Arah Timur)",
-     "lokasi": "Pertigaan RSUD Rembang 3 (Arah Timur), Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.705695,
-     "lon": 111.358684,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-12"
-    },
-    {
-     "nama": "Simpang Tiga Nasriah Lasem 1 - Rembang",
-     "lokasi": "Simpang Tiga Nasriah Lasem 1 - Rembang, Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.697823,
-     "lon": 111.450789,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-24"
-    },
-    {
-     "nama": "Simpang Tiga Nasriah Lasem 2 - Rembang",
-     "lokasi": "Simpang Tiga Nasriah Lasem 2 - Rembang, Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.697823,
-     "lon": 111.450789,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-25"
-    },
-    {
-     "nama": "Simpang Tiga Nasriah Lasem 3 - Rembang",
-     "lokasi": "Simpang Tiga Nasriah Lasem 3 - Rembang, Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.697823,
-     "lon": 111.450789,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-9"
-    },
-    {
-     "nama": "Taman Lasem 1 (Arah Barat) - Rembang",
-     "lokasi": "Taman Lasem 1 (Arah Barat) - Rembang, Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.697773,
-     "lon": 111.447836,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-7"
-    },
-    {
-     "nama": "Taman Lasem 2 (Area Pertigaan) - Rembang",
-     "lokasi": "Taman Lasem 2 (Area Pertigaan) - Rembang, Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.697773,
-     "lon": 111.447836,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-23"
-    },
-    {
-     "nama": "Taman Lasem 3 (Traffic Light) - Rembang",
-     "lokasi": "Taman Lasem 3 (Traffic Light) - Rembang, Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.697773,
-     "lon": 111.447836,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-8"
-    },
-    {
-     "nama": "Terminal Lasem 1 (Jalur Pantura) - Rembang",
-     "lokasi": "Terminal Lasem 1 (Jalur Pantura) - Rembang, Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.692914,
-     "lon": 111.436121,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-13"
-    },
-    {
-     "nama": "Terminal Lasem 2 (Area Parkir & Tunggu)",
-     "lokasi": "Terminal Lasem 2 (Area Parkir & Tunggu), Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.692914,
-     "lon": 111.436121,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-26"
-    },
-    {
-     "nama": "Terminal Tipe C Rembang 1 (Jalur Masuk)",
-     "lokasi": "Terminal Tipe C Rembang 1 (Jalur Masuk), Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.704898,
-     "lon": 111.348161,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-4"
-    },
-    {
-     "nama": "Terminal Tipe C Rembang 2 (Jalur Keluar)",
-     "lokasi": "Terminal Tipe C Rembang 2 (Jalur Keluar), Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.704898,
-     "lon": 111.348161,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-5"
-    },
-    {
-     "nama": "Terminal Tipe C Rembang 3 (Jalur Dalam)",
-     "lokasi": "Terminal Tipe C Rembang 3 (Jalur Dalam), Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.704898,
-     "lon": 111.348161,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-6"
-    },
-    {
-     "nama": "Tugu Adipura 1 (Arah Pati/Blora) - Rembang",
-     "lokasi": "Tugu Adipura 1 (Arah Pati/Blora) - Rembang, Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.704252,
-     "lon": 111.342085,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-17"
-    },
-    {
-     "nama": "Tugu Adipura 2 (Arah Tuban) - Rembang",
-     "lokasi": "Tugu Adipura 2 (Arah Tuban) - Rembang, Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.704252,
-     "lon": 111.342085,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-19"
-    },
-    {
-     "nama": "Tugu Adipura 3 (Arah Kota) - Rembang",
-     "lokasi": "Tugu Adipura 3 (Arah Kota) - Rembang, Rembang, Jawa Tengah",
-     "stream": "",
-     "lat": -6.704252,
-     "lon": 111.342085,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=rembang-18"
     }
    ]
   },
@@ -61365,278 +60034,6 @@
    ]
   },
   {
-   "nama": "Kabupaten Bangkalan",
-   "pulau": "Jawa",
-   "provinsi": "Jawa Timur",
-   "sumber": "CCTV Nusantara",
-   "kamera": [
-    {
-     "nama": "Puskesmas Bangkalan",
-     "lokasi": "Puskesmas Bangkalan (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -7.019891076234942,
-     "lon": 112.76444419436433,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-puskesmas-bangkalan"
-    },
-    {
-     "nama": "Puskesmas Banjar",
-     "lokasi": "Puskesmas Banjar (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -7.074058291750878,
-     "lon": 112.90409501856752,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-puskesmas-banjar"
-    },
-    {
-     "nama": "Puskesmas Blega",
-     "lokasi": "Puskesmas Blega (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -7.126881299660243,
-     "lon": 113.06662945485559,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-puskesmas-blega"
-    },
-    {
-     "nama": "Puskesmas Burneh",
-     "lokasi": "Puskesmas Burneh (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -7.054592113744164,
-     "lon": 112.78675276402461,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-puskesmas-burneh"
-    },
-    {
-     "nama": "Puskesmas Galis",
-     "lokasi": "Puskesmas Galis (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -7.111021262341038,
-     "lon": 112.96041792725777,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-puskesmas-galis"
-    },
-    {
-     "nama": "Puskesmas Geger",
-     "lokasi": "Puskesmas Geger (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -6.991699174211841,
-     "lon": 112.94163161066461,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-puskesmas-geger"
-    },
-    {
-     "nama": "Puskesmas Jaddih",
-     "lokasi": "Puskesmas Jaddih (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -7.079897486948053,
-     "lon": 112.75011696710048,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-puskesmas-jaddih"
-    },
-    {
-     "nama": "Puskesmas Kamal",
-     "lokasi": "Puskesmas Kamal (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -7.1641047378788585,
-     "lon": 112.7206450824423,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-puskesmas-kamal"
-    },
-    {
-     "nama": "Puskesmas Kedungdung",
-     "lokasi": "Puskesmas Kedungdung (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -7.210767900002641,
-     "lon": 113.03471038571541,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-puskesmas-kedungdung"
-    },
-    {
-     "nama": "Puskesmas Klampis",
-     "lokasi": "Puskesmas Klampis (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -6.895784065628595,
-     "lon": 112.89876388842328,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-puskesmas-klampis"
-    },
-    {
-     "nama": "Puskesmas Kokop",
-     "lokasi": "Puskesmas Kokop (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -6.942656330099206,
-     "lon": 113.02976582297396,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-puskesmas-kokop"
-    },
-    {
-     "nama": "Puskesmas Konang",
-     "lokasi": "Puskesmas Konang (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -7.076846691778724,
-     "lon": 113.0918358960314,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-puskesmas-konang"
-    },
-    {
-     "nama": "Puskesmas Kwanyar",
-     "lokasi": "Puskesmas Kwanyar (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -7.1557683,
-     "lon": 112.8578114,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-puskesmas-kwanyar"
-    },
-    {
-     "nama": "Puskesmas Sepulu",
-     "lokasi": "Puskesmas Sepulu (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -6.891653624523006,
-     "lon": 112.9600566239089,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-puskesmas-sepulu"
-    },
-    {
-     "nama": "Puskesmas Sukolilo",
-     "lokasi": "Puskesmas Sukolilo (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -7.158101157160797,
-     "lon": 112.78868048059579,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-puskesmas-sukolilo"
-    },
-    {
-     "nama": "Puskesmas Tragah",
-     "lokasi": "Puskesmas Tragah (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -7.0990329795095155,
-     "lon": 112.82584194879713,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-puskesmas-tragah"
-    },
-    {
-     "nama": "RS Syamrabu Poli Dalam",
-     "lokasi": "RS Syamrabu Poli Dalam (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -7.029174,
-     "lon": 112.75945,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-rs-syamrabu-poli-dalam"
-    },
-    {
-     "nama": "RS Syamrabu Poli Dalam 2",
-     "lokasi": "RS Syamrabu Poli Dalam 2 (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -7.02945,
-     "lon": 112.7598,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-rs-syamrabu-poli-dalam-2"
-    },
-    {
-     "nama": "RS Syamrabu Poli Syaraf",
-     "lokasi": "RS Syamrabu Poli Syaraf (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -7.02895,
-     "lon": 112.7591,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-rs-syamrabu-poli-syaraf"
-    },
-    {
-     "nama": "RS Syamrabu Poli Syaraf 2",
-     "lokasi": "RS Syamrabu Poli Syaraf 2 (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -7.0294,
-     "lon": 112.7591,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-rs-syamrabu-poli-syaraf-2"
-    },
-    {
-     "nama": "RS Syamrabu Poli Syaraf 3",
-     "lokasi": "RS Syamrabu Poli Syaraf 3 (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -7.02895,
-     "lon": 112.7598,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-rs-syamrabu-poli-syaraf-3"
-    },
-    {
-     "nama": "RS Syamrabu Poli Syaraf 4",
-     "lokasi": "RS Syamrabu Poli Syaraf 4 (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -7.0294,
-     "lon": 112.7598,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-rs-syamrabu-poli-syaraf-4"
-    },
-    {
-     "nama": "RS Syamrabu Poli Syaraf 5",
-     "lokasi": "RS Syamrabu Poli Syaraf 5 (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -7.0288,
-     "lon": 112.75945,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-rs-syamrabu-poli-syaraf-5"
-    },
-    {
-     "nama": "RS Syamrabu Poli Syaraf 6",
-     "lokasi": "RS Syamrabu Poli Syaraf 6 (Kabupaten Bangkalan)",
-     "stream": "",
-     "lat": -7.02955,
-     "lon": 112.75945,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "bangkalan-kab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bangkalankab-rs-syamrabu-poli-syaraf-6"
-    }
-   ]
-  },
-  {
    "nama": "Kabupaten Banyuwangi",
    "pulau": "Jawa",
    "provinsi": "Jawa Timur",
@@ -61995,17 +60392,6 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=gresik-b6e20ejf1o1woe3gvy3kmkyp"
-    },
-    {
-     "nama": "CCTV PERTIGAAN CANGKIR 1",
-     "lokasi": "CCTV PERTIGAAN CANGKIR 1, PERTIGAAN CANGKIR DRIYOREJO, Kabupaten Gresik",
-     "stream": "",
-     "lat": -7.3658292129437415,
-     "lon": 112.62739419937135,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=gresik-kwzk3qbtjn950hpk0mlcu8wz"
     },
     {
      "nama": "CCTV PERTIGAAN CANGKIR 3",
@@ -62750,6 +61136,17 @@
      "tautan": "https://cctvnusantara.com/embed?cam=jombang-alun-alun-jombang-area-tempat-duduk"
     },
     {
+     "nama": "Alun-alun Jombang - Area Tempat Duduk Timur",
+     "lokasi": "Alun-alun Jombang - Area Tempat Duduk Timur, Kabupaten Jombang, Jawa Timur",
+     "stream": "",
+     "lat": -7.5571786,
+     "lon": 112.2334209,
+     "tipe": "snapshot",
+     "kategori": "publik",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=jombang-alun-alun-jombang-area-tempat-duduk-timur"
+    },
+    {
      "nama": "Alun-alun Jombang - Lapangan Sintetis",
      "lokasi": "Alun-alun Jombang - Lapangan Sintetis, Kabupaten Jombang, Jawa Timur",
      "stream": "",
@@ -62990,17 +61387,6 @@
      "kategori": "publik",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=jombang-sentra-wisata-kuliner-7"
-    },
-    {
-     "nama": "Sentra Wisata Kuliner 8",
-     "lokasi": "Sentra Wisata Kuliner 8, Kabupaten Jombang, Jawa Timur",
-     "stream": "",
-     "lat": -7.5461,
-     "lon": 112.2331,
-     "tipe": "snapshot",
-     "kategori": "publik",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=jombang-sentra-wisata-kuliner-8"
     },
     {
      "nama": "Simpang KA Pandanwangi (Selatan)",
@@ -63665,17 +62051,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-183006607599579137825005"
     },
     {
-     "nama": "Parkiran Sarangan",
-     "lokasi": "Parkiran Sarangan, Kawasan Telaga Sarangan, Kabupaten Magetan, Jawa Timur",
-     "stream": "",
-     "lat": -7.677251827678049,
-     "lon": 111.22360493709644,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=sarangan-parkiran-sarangan"
-    },
-    {
      "nama": "S3_Omah Jowo_Pintu Masuk Sarangan",
      "lokasi": "S3_Omah Jowo_Pintu Masuk Sarangan, Kawasan Telaga Sarangan, Kabupaten Magetan, Jawa Timur",
      "stream": "",
@@ -63720,17 +62095,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=sarangan-s3-sidorejo"
     },
     {
-     "nama": "S3_Singolangu Bawah - Pintu Masuk Sarangan",
-     "lokasi": "S3_Singolangu Bawah - Pintu Masuk Sarangan, Kawasan Telaga Sarangan, Kabupaten Magetan, Jawa Timur",
-     "stream": "",
-     "lat": -7.672184798147746,
-     "lon": 111.22936190423938,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=sarangan-s3-singolangu-bawah-pintu-masuk-sarangan"
-    },
-    {
      "nama": "S4_Cepoko",
      "lokasi": "S4_Cepoko, Kawasan Telaga Sarangan, Kabupaten Magetan, Jawa Timur",
      "stream": "",
@@ -63751,17 +62115,6 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=sarangan-s4-jl-timor-lombok"
-    },
-    {
-     "nama": "S4_Mandoran - Loket Wisata T. Sarangan",
-     "lokasi": "S4_Mandoran - Loket Wisata T. Sarangan, Kawasan Telaga Sarangan, Kabupaten Magetan, Jawa Timur",
-     "stream": "",
-     "lat": -7.674634406433856,
-     "lon": 111.22497812941381,
-     "tipe": "hls",
-     "kategori": "wisata",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=sarangan-s4-mandoran-loket-wisata-t-sarangan"
     },
     {
      "nama": "S4_Milangasri",
@@ -63806,17 +62159,6 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=sarangan-s4-parang"
-    },
-    {
-     "nama": "Singolangu Atas - Sarangan",
-     "lokasi": "Singolangu Atas - Sarangan, Kawasan Telaga Sarangan, Kabupaten Magetan, Jawa Timur",
-     "stream": "",
-     "lat": -7.67028684038059,
-     "lon": 111.22781110342254,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=sarangan-singolangu-atas-sarangan"
     },
     {
      "nama": "Terminal Maospati",
@@ -64658,6 +63000,50 @@
      "kategori": "kota",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=nganjuk-158"
+    },
+    {
+     "nama": "Desa Mojoseto - Pendopo",
+     "lokasi": "Kabupaten Nganjuk - Pendopo",
+     "stream": "",
+     "lat": -7.570222,
+     "lon": 111.991261,
+     "tipe": "hls",
+     "kategori": "kota",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=nganjuk-143"
+    },
+    {
+     "nama": "Desa Mojoseto - Pertigaan Selatan",
+     "lokasi": "Kabupaten Nganjuk - Pertigaan Selatan",
+     "stream": "",
+     "lat": -7.57049,
+     "lon": 111.991238,
+     "tipe": "hls",
+     "kategori": "kota",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=nganjuk-144"
+    },
+    {
+     "nama": "Desa Mojoseto - Pertigaan Timur",
+     "lokasi": "Kabupaten Nganjuk - Pertigaan Timur",
+     "stream": "",
+     "lat": -7.570443,
+     "lon": 111.990955,
+     "tipe": "hls",
+     "kategori": "kota",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=nganjuk-146"
+    },
+    {
+     "nama": "Desa Mojoseto - Pertigaan Utara",
+     "lokasi": "Kabupaten Nganjuk - Pertigaan Utara",
+     "stream": "",
+     "lat": -7.57021,
+     "lon": 111.991226,
+     "tipe": "hls",
+     "kategori": "kota",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=nganjuk-145"
     },
     {
      "nama": "Desa NGLAWAK - Baldes Depan",
@@ -66101,17 +64487,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=nganjuk-103"
     },
     {
-     "nama": "Traffic Light Candirejo - TL Candi Utara",
-     "lokasi": "Kabupaten Nganjuk - TL Candi Utara",
-     "stream": "",
-     "lat": -7.63792,
-     "lon": 111.894602,
-     "tipe": "hls",
-     "kategori": "kota",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=nganjuk-183"
-    },
-    {
      "nama": "Traffic Light Candirejo - TL Candi barat",
      "lokasi": "Kabupaten Nganjuk - TL Candi barat",
      "stream": "",
@@ -66176,6 +64551,50 @@
      "kategori": "kota",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=nganjuk-219"
+    },
+    {
+     "nama": "Traffic Light Ngujung - Ngujung Barat",
+     "lokasi": "Kabupaten Nganjuk - Ngujung Barat",
+     "stream": "",
+     "lat": -7.535975,
+     "lon": 112.006706,
+     "tipe": "hls",
+     "kategori": "kota",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=nganjuk-201"
+    },
+    {
+     "nama": "Traffic Light Ngujung - Ngujung Selatan",
+     "lokasi": "Kabupaten Nganjuk - Ngujung Selatan",
+     "stream": "",
+     "lat": -7.536257,
+     "lon": 112.006896,
+     "tipe": "hls",
+     "kategori": "kota",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=nganjuk-200"
+    },
+    {
+     "nama": "Traffic Light Ngujung - Ngujung Timur",
+     "lokasi": "Kabupaten Nganjuk - Ngujung Timur",
+     "stream": "",
+     "lat": -7.536012,
+     "lon": 112.0072,
+     "tipe": "hls",
+     "kategori": "kota",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=nganjuk-199"
+    },
+    {
+     "nama": "Traffic Light Ngujung - Ngujung Utara",
+     "lokasi": "Kabupaten Nganjuk - Ngujung Utara",
+     "stream": "",
+     "lat": -7.535617,
+     "lon": 112.006953,
+     "tipe": "hls",
+     "kategori": "kota",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=nganjuk-198"
     },
     {
      "nama": "Traffic Light Pace - Pace Selatan",
@@ -68718,6 +67137,17 @@
      "tautan": "https://cctvnusantara.com/embed?cam=wiraraja-madura-16"
     },
     {
+     "nama": "Universitas Wiraraja - Parkir Lab FIK arah barat",
+     "lokasi": "Kampus Universitas Wiraraja, Sumenep, Madura - Parkir Lab FIK arah barat",
+     "stream": "",
+     "lat": -7.0433410222813,
+     "lon": 113.8458754923,
+     "tipe": "hls",
+     "kategori": "publik",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=wiraraja-madura-23"
+    },
+    {
      "nama": "Universitas Wiraraja - Parkir Lab FIK arah timur",
      "lokasi": "Kampus Universitas Wiraraja, Sumenep, Madura - Parkir Lab FIK arah timur",
      "stream": "",
@@ -69400,6 +67830,17 @@
      "kategori": "jalan",
      "sumber": "batukota",
      "tautan": "https://cctvnusantara.com/embed?cam=batu-26"
+    },
+    {
+     "nama": "Rumah Dinas (Pemkot Batu)",
+     "lokasi": "Rumah Dinas (Pemkot Batu) (Kota Batu)",
+     "stream": "",
+     "lat": -7.8727,
+     "lon": 112.526,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": "batukota",
+     "tautan": "https://cctvnusantara.com/embed?cam=batu-11"
     },
     {
      "nama": "Simpang Empat BCA",
@@ -74186,6 +72627,17 @@
      "tautan": "https://cctvnusantara.com/embed?cam=volcano-bromo-p30"
     },
     {
+     "nama": "CCTV Pantau Gunung Semeru - Jembatan Gladak Perak",
+     "lokasi": "Kawasan Jembatan Gladak Perak, Candipuro, Lumajang",
+     "stream": "",
+     "lat": -8.175,
+     "lon": 112.97,
+     "tipe": "snapshot",
+     "kategori": "jembatan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=volcano-semeru-gladak-perak"
+    },
+    {
      "nama": "CCTV Pantau Gunung Semeru - Pos Pengamatan Gunung Sawur",
      "lokasi": "Pos PGA Semeru Gunung Sawur, Candipuro, Lumajang",
      "stream": "",
@@ -74469,17 +72921,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=bali-322-jalan-seminyak-depan-swalayan-bintanggg-keraton"
     },
     {
-     "nama": "Jalan Seminyak Depan Swalayan Bintang/Gg Keraton",
-     "lokasi": "Jalan Seminyak Depan Swalayan Bintang/Gg Keraton",
-     "stream": "",
-     "lat": -8.6930627,
-     "lon": 115.1639173,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=bali-satu-data_322_jalan-seminyak-depan-swalayan-bintanggg-keraton"
-    },
-    {
      "nama": "Jl Arjuna Parkiran Pantai DoubleSix",
      "lokasi": "Jl Arjuna Parkiran Pantai DoubleSix, Provinsi Bali",
      "stream": "",
@@ -74489,17 +72930,6 @@
      "kategori": "wisata",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=bali-323-jl-arjuna-parkiran-pantai-doublesix"
-    },
-    {
-     "nama": "Jl Arjuna Parkiran Pantai DoubleSix",
-     "lokasi": "Jl Arjuna Parkiran Pantai DoubleSix",
-     "stream": "",
-     "lat": -8.6930495,
-     "lon": 115.1600549,
-     "tipe": "hls",
-     "kategori": "wisata",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=bali-satu-data_323_jl-arjuna-parkiran-pantai-doublesix"
     },
     {
      "nama": "Jl. Pantai Kuta, Depan Hardrock",
@@ -74568,336 +72998,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=bali-satu-data_326_monumen-ground-zeropojok-panin"
     },
     {
-     "nama": "PA. BADUNG - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PA. BADUNG (Kabupaten Badung)",
-     "stream": "https://pabadung.cctvbadilag3.my.id/614731PABADUNG/play.html?name=196279577664716299414744",
-     "lat": -8.581508,
-     "lon": 115.182334,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-196279577664716299414744"
-    },
-    {
-     "nama": "PA. BADUNG - PTSP",
-     "lokasi": "PA. BADUNG (Kabupaten Badung)",
-     "stream": "https://pabadung.cctvbadilag3.my.id/614731PABADUNG/play.html?name=985927513771948866538871",
-     "lat": -8.581467,
-     "lon": 115.185651,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-985927513771948866538871"
-    },
-    {
-     "nama": "PA. BADUNG - RUANG TUNGGU SIDANG",
-     "lokasi": "PA. BADUNG (Kabupaten Badung)",
-     "stream": "https://pabadung.cctvbadilag3.my.id/614731PABADUNG/play.html?name=829301527986741433683610",
-     "lat": -8.582776,
-     "lon": 115.180812,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-829301527986741433683610"
-    },
-    {
-     "nama": "PA. BANGLI - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PA. BANGLI (Kabupaten Bangli)",
-     "stream": "https://pabangli.cctvbadilag2.my.id/402726PABANGLI/play.html?name=681752936680628308033099",
-     "lat": -8.454149,
-     "lon": 115.357234,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-681752936680628308033099"
-    },
-    {
-     "nama": "PA. BANGLI - PTSP",
-     "lokasi": "PA. BANGLI (Kabupaten Bangli)",
-     "stream": "https://pabangli.cctvbadilag2.my.id/402726PABANGLI/play.html?name=623884118713840023083061",
-     "lat": -8.454681,
-     "lon": 115.356133,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-623884118713840023083061"
-    },
-    {
-     "nama": "PA. BANGLI - RUANG TUNGGU SIDANG",
-     "lokasi": "PA. BANGLI (Kabupaten Bangli)",
-     "stream": "https://pabangli.cctvbadilag2.my.id/402726PABANGLI/play.html?name=579367644046378337662856",
-     "lat": -8.455736,
-     "lon": 115.353644,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-579367644046378337662856"
-    },
-    {
-     "nama": "PA. DENPASAR - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PA. DENPASAR (Kota Denpasar)",
-     "stream": "https://padenpasar.cctvbadilag2.my.id/307822PADENPASAR/play.html?name=015657572977634666152088",
-     "lat": -8.668431,
-     "lon": 115.211232,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-015657572977634666152088"
-    },
-    {
-     "nama": "PA. DENPASAR - PTSP",
-     "lokasi": "PA. DENPASAR (Kota Denpasar)",
-     "stream": "https://padenpasar.cctvbadilag2.my.id/307822PADENPASAR/play.html?name=726952118008954435202528",
-     "lat": -8.668009,
-     "lon": 115.210295,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-726952118008954435202528"
-    },
-    {
-     "nama": "PA. DENPASAR - RUANG TUNGGU SIDANG",
-     "lokasi": "PA. DENPASAR (Kota Denpasar)",
-     "stream": "https://padenpasar.cctvbadilag2.my.id/307822PADENPASAR/play.html?name=537445156579322588529239",
-     "lat": -8.670667,
-     "lon": 115.212551,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-537445156579322588529239"
-    },
-    {
-     "nama": "PA. GIANYAR - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PA. GIANYAR (Kabupaten Gianyar)",
-     "stream": "https://pagianyar.cctvbadilag.my.id/402772PAGIANYAR/play.html?name=909437611255840929667097",
-     "lat": -8.542333,
-     "lon": 115.324591,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-909437611255840929667097"
-    },
-    {
-     "nama": "PA. GIANYAR - PTSP",
-     "lokasi": "PA. GIANYAR (Kabupaten Gianyar)",
-     "stream": "https://pagianyar.cctvbadilag.my.id/402772PAGIANYAR/play.html?name=324589661299927499715144",
-     "lat": -8.542264,
-     "lon": 115.328108,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-324589661299927499715144"
-    },
-    {
-     "nama": "PA. GIANYAR - RUANG TUNGGU SIDANG",
-     "lokasi": "PA. GIANYAR (Kabupaten Gianyar)",
-     "stream": "https://pagianyar.cctvbadilag.my.id/402772PAGIANYAR/play.html?name=107094474794099260861515",
-     "lat": -8.54548,
-     "lon": 115.326781,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-107094474794099260861515"
-    },
-    {
-     "nama": "PA. KARANG ASEM - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PA. KARANG ASEM (KANTIN/MUSHOLA/HALAMAN PARKIR)",
-     "stream": "https://pakarangasem.cctvbadilag2.my.id/402741PAKARANGASEM/play.html?name=819171209336697543225689",
-     "lat": -8.4496,
-     "lon": 115.6171,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-819171209336697543225689"
-    },
-    {
-     "nama": "PA. KARANG ASEM - PTSP",
-     "lokasi": "PA. KARANG ASEM (PTSP)",
-     "stream": "https://pakarangasem.cctvbadilag2.my.id/402741PAKARANGASEM/play.html?name=331404717480413306977090",
-     "lat": -8.45,
-     "lon": 115.6167,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-331404717480413306977090"
-    },
-    {
-     "nama": "PA. KARANG ASEM - RUANG TUNGGU SIDANG",
-     "lokasi": "PA. KARANG ASEM (RUANG TUNGGU SIDANG)",
-     "stream": "https://pakarangasem.cctvbadilag2.my.id/402741PAKARANGASEM/play.html?name=479115373005134683839886",
-     "lat": -8.4498,
-     "lon": 115.6169,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-479115373005134683839886"
-    },
-    {
-     "nama": "PA. KLUNGKUNG - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PA. KLUNGKUNG (Kabupaten Klungkung)",
-     "stream": "https://paklungkung.cctvbadilag.my.id/402763PAKLUNGKUNG/play.html?name=030113053738749084283171",
-     "lat": -8.532567,
-     "lon": 115.402352,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-030113053738749084283171"
-    },
-    {
-     "nama": "PA. KLUNGKUNG - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PA. KLUNGKUNG (Kabupaten Klungkung)",
-     "stream": "https://paklungkung.cctvbadilag.my.id/402763PAKLUNGKUNG/play.html?name=115063314256899456527259",
-     "lat": -8.532897,
-     "lon": 115.400031,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-115063314256899456527259"
-    },
-    {
-     "nama": "PA. KLUNGKUNG - PTSP",
-     "lokasi": "PA. KLUNGKUNG (Kabupaten Klungkung)",
-     "stream": "https://paklungkung.cctvbadilag.my.id/402763PAKLUNGKUNG/play.html?name=526589325161357288456458",
-     "lat": -8.532089,
-     "lon": 115.401514,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-526589325161357288456458"
-    },
-    {
-     "nama": "PA. KLUNGKUNG - RUANG TUNGGU SIDANG",
-     "lokasi": "PA. KLUNGKUNG (Kabupaten Klungkung)",
-     "stream": "https://paklungkung.cctvbadilag.my.id/402763PAKLUNGKUNG/play.html?name=227348041197056739134644",
-     "lat": -8.535727,
-     "lon": 115.399821,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-227348041197056739134644"
-    },
-    {
-     "nama": "PA. NEGARA - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PA. NEGARA (KANTIN/MUSHOLA/HALAMAN PARKIR)",
-     "stream": "https://panegara-bali.cctvbadilag.my.id/402732PANEGARA/play.html?name=321903017227467350551485",
-     "lat": -8.358302,
-     "lon": 114.621327,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-321903017227467350551485"
-    },
-    {
-     "nama": "PA. NEGARA - PTSP",
-     "lokasi": "PA. NEGARA (PTSP)",
-     "stream": "https://panegara-bali.cctvbadilag.my.id/402732PANEGARA/play.html?name=369523806084189842515290",
-     "lat": -8.359114,
-     "lon": 114.621263,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-369523806084189842515290"
-    },
-    {
-     "nama": "PA. NEGARA - RUANG TUNGGU SIDANG",
-     "lokasi": "PA. NEGARA (RUANG TUNGGU SIDANG)",
-     "stream": "https://panegara-bali.cctvbadilag.my.id/402732PANEGARA/play.html?name=764632862861129543258697",
-     "lat": -8.356182,
-     "lon": 114.618643,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-764632862861129543258697"
-    },
-    {
-     "nama": "PA. SINGARAJA - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PA. SINGARAJA (Kabupaten Buleleng)",
-     "stream": "https://pasingaraja.cctvbadilag2.my.id/307839PASINGARAJA/play.html?name=406898451087133309342501",
-     "lat": -8.110326,
-     "lon": 115.087497,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-406898451087133309342501"
-    },
-    {
-     "nama": "PA. SINGARAJA - PTSP",
-     "lokasi": "PA. SINGARAJA (Kabupaten Buleleng)",
-     "stream": "https://pasingaraja.cctvbadilag2.my.id/307839PASINGARAJA/play.html?name=471415532250322699318328",
-     "lat": -8.113296,
-     "lon": 115.090108,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-471415532250322699318328"
-    },
-    {
-     "nama": "PA. SINGARAJA - RUANG TUNGGU SIDANG",
-     "lokasi": "PA. SINGARAJA (Kabupaten Buleleng)",
-     "stream": "https://pasingaraja.cctvbadilag2.my.id/307839PASINGARAJA/play.html?name=187635833312775882958311",
-     "lat": -8.114495,
-     "lon": 115.090619,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-187635833312775882958311"
-    },
-    {
-     "nama": "PA. TABANAN - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PA. TABANAN (Kabupaten Tabanan)",
-     "stream": "https://patabanan.cctvbadilag.my.id/402757PATABANAN/play.html?name=858347488199281951361667",
-     "lat": -8.542217,
-     "lon": 115.124324,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-858347488199281951361667"
-    },
-    {
-     "nama": "PA. TABANAN - PTSP",
-     "lokasi": "PA. TABANAN (Kabupaten Tabanan)",
-     "stream": "https://patabanan.cctvbadilag.my.id/402757PATABANAN/play.html?name=093003957286648759716552",
-     "lat": -8.540339,
-     "lon": 115.124556,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-093003957286648759716552"
-    },
-    {
-     "nama": "PA. TABANAN - RUANG TUNGGU SIDANG",
-     "lokasi": "PA. TABANAN (Kabupaten Tabanan)",
-     "stream": "https://patabanan.cctvbadilag.my.id/402757PATABANAN/play.html?name=954012430010742942202299",
-     "lat": -8.541863,
-     "lon": 115.123813,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-954012430010742942202299"
-    },
-    {
-     "nama": "PTA BALI - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PTA BALI (Kota Denpasar)",
-     "stream": "https://ptabali.cctvbadilag.my.id/526724PTABALI/play.html?name=994856766082571512795586",
-     "lat": -8.6254,
-     "lon": 115.2039,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-994856766082571512795586"
-    },
-    {
-     "nama": "PTA BALI - PTSP",
-     "lokasi": "PTA BALI (Kota Denpasar)",
-     "stream": "https://ptabali.cctvbadilag.my.id/526724PTABALI/play.html?name=135941635160011832742680",
-     "lat": -8.6258,
-     "lon": 115.2035,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-135941635160011832742680"
-    },
-    {
      "nama": "Pantai Jerman-CO1 CCTV1",
      "lokasi": "Pantai Jerman-CO1 CCTV1, Provinsi Bali",
      "stream": "",
@@ -74907,17 +73007,6 @@
      "kategori": "wisata",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=bali-320-pantai-jerman-co1-cctv1"
-    },
-    {
-     "nama": "Pantai Jerman-CO1 CCTV1",
-     "lokasi": "Pantai Jerman-CO1 CCTV1",
-     "stream": "",
-     "lat": -8.7353252,
-     "lon": 115.1606467,
-     "tipe": "hls",
-     "kategori": "wisata",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=bali-satu-data_320_pantai-jerman-co1-cctv1"
     },
     {
      "nama": "Pantai Jerman-CO1 CCTV2",
@@ -74953,17 +73042,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=bali-333-pantai-jerman-co2-cctv1"
     },
     {
-     "nama": "Pantai Jerman-CO2 CCTV1",
-     "lokasi": "Pantai Jerman-CO2 CCTV1",
-     "stream": "",
-     "lat": -8.73625,
-     "lon": 115.163004,
-     "tipe": "hls",
-     "kategori": "wisata",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=bali-satu-data_333_pantai-jerman-co2-cctv1"
-    },
-    {
      "nama": "Pantai Jerman-CO2 CCTV2",
      "lokasi": "Pantai Jerman-CO2 CCTV2, Provinsi Bali",
      "stream": "",
@@ -74973,17 +73051,6 @@
      "kategori": "wisata",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=bali-336-pantai-jerman-co2-cctv2"
-    },
-    {
-     "nama": "Pantai Jerman-CO2 CCTV2",
-     "lokasi": "Pantai Jerman-CO2 CCTV2",
-     "stream": "",
-     "lat": -8.73625,
-     "lon": 115.163004,
-     "tipe": "hls",
-     "kategori": "wisata",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=bali-satu-data_336_pantai-jerman-co2-cctv2"
     },
     {
      "nama": "Pantai Jerman-CO3 CCTV1",
@@ -74997,17 +73064,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=bali-339-pantai-jerman-co3-cctv1"
     },
     {
-     "nama": "Pantai Jerman-CO3 CCTV1",
-     "lokasi": "Pantai Jerman-CO3 CCTV1",
-     "stream": "",
-     "lat": -8.734832,
-     "lon": 115.163455,
-     "tipe": "hls",
-     "kategori": "wisata",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=bali-satu-data_339_pantai-jerman-co3-cctv1"
-    },
-    {
      "nama": "Pantai Jimbaran-CO1 CCTV1",
      "lokasi": "Pantai Jimbaran-CO1 CCTV1, Provinsi Bali",
      "stream": "",
@@ -75017,6 +73073,17 @@
      "kategori": "wisata",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=bali-334-pantai-jimbaran-co1-cctv1"
+    },
+    {
+     "nama": "Pantai Jimbaran-CO1 CCTV1",
+     "lokasi": "Pantai Jimbaran-CO1 CCTV1",
+     "stream": "",
+     "lat": -8.7750576,
+     "lon": 115.1598931,
+     "tipe": "hls",
+     "kategori": "wisata",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=bali-satu-data_334_pantai-jimbaran-co1-cctv1"
     },
     {
      "nama": "Pantai Jimbaran-CO1 CCTV2",
@@ -75030,15 +73097,26 @@
      "tautan": "https://cctvnusantara.com/embed?cam=bali-337-pantai-jimbaran-co1-cctv2"
     },
     {
-     "nama": "Pantai Kedongan-CO1 CCTV1",
-     "lokasi": "Pantai Kedongan-CO1 CCTV1",
+     "nama": "Pantai Jimbaran-CO1 CCTV2",
+     "lokasi": "Pantai Jimbaran-CO1 CCTV2",
+     "stream": "",
+     "lat": -8.7750576,
+     "lon": 115.1598931,
+     "tipe": "hls",
+     "kategori": "wisata",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=bali-satu-data_337_pantai-jimbaran-co1-cctv2"
+    },
+    {
+     "nama": "Pantai Kedongan-CO1 CCTV2",
+     "lokasi": "Pantai Kedongan-CO1 CCTV2",
      "stream": "",
      "lat": -8.7617951,
      "lon": 115.1633473,
      "tipe": "hls",
      "kategori": "wisata",
      "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=bali-satu-data_347_pantai-kedongan-co1-cctv1"
+     "tautan": "https://cctvnusantara.com/embed?cam=bali-satu-data_349_pantai-kedongan-co1-cctv2"
     },
     {
      "nama": "Pantai Kuta-C01 CCTV2",
@@ -75094,6 +73172,17 @@
      "kategori": "wisata",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=bali-340-pantai-kuta-c05-cctv2"
+    },
+    {
+     "nama": "Pantai Kuta-C05 CCTV2",
+     "lokasi": "Pantai Kuta-C05 CCTV2",
+     "stream": "",
+     "lat": -8.7226496,
+     "lon": 115.1669655,
+     "tipe": "hls",
+     "kategori": "wisata",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=bali-satu-data_340_pantai-kuta-c05-cctv2"
     },
     {
      "nama": "Parkir Besakih",
@@ -75360,17 +73449,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=bali-381-pura-batur"
     },
     {
-     "nama": "Pura Batur",
-     "lokasi": "Pura Batur",
-     "stream": "",
-     "lat": -8.255079,
-     "lon": 115.335439,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=bali-satu-data_381_pura-batur"
-    },
-    {
      "nama": "Simpang Lepang",
      "lokasi": "Simpang Lepang, Provinsi Bali",
      "stream": "",
@@ -75380,6 +73458,17 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=bali-304-simpang-lepang"
+    },
+    {
+     "nama": "Simpang Lepang",
+     "lokasi": "Simpang Lepang",
+     "stream": "",
+     "lat": -8.5739445,
+     "lon": 115.3771148,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=bali-satu-data_304_simpang-lepang"
     },
     {
      "nama": "Simpang Lima",
@@ -75476,17 +73565,6 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=ntb-bima-bataskotaniu1"
-    },
-    {
-     "nama": "Bundaran Tugu Metro",
-     "lokasi": "Bundaran Tugu Metro (Kota Mataram)",
-     "stream": "",
-     "lat": -8.619258,
-     "lon": 116.097536,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "mataram-atcs",
-     "tautan": "https://cctvnusantara.com/embed?cam=mataram-atcs-b14-tugu-metro"
     },
     {
      "nama": "Bundaran Tugu Pesawat",
@@ -76495,17 +74573,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=sanggau-ptsp-2"
     },
     {
-     "nama": "CCTV RUANG TUNGGU SIDANG PA Sanggau #3",
-     "lokasi": "CCTV RUANG TUNGGU SIDANG PA Sanggau #3 (Kabupaten Sanggau)",
-     "stream": "",
-     "lat": 0.1335552,
-     "lon": 110.5567054,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": "sanggau-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=sanggau-ruang-tunggu-sidang-3"
-    },
-    {
      "nama": "CCTV Ruang Tunggu Sidang PA Sambas",
      "lokasi": "CCTV Ruang Tunggu Sidang PA Sambas (Kabupaten Sambas)",
      "stream": "",
@@ -77030,6 +75097,17 @@
    "provinsi": "Kalimantan Barat",
    "sumber": "CCTV Nusantara",
    "kamera": [
+    {
+     "nama": "Bundaran Digulis Untan (Jl. Ahmad Yani)",
+     "lokasi": "Bundaran Digulis, Universitas Tanjungpura, Jl. Jend. A. Yani, Pontianak Tenggara",
+     "stream": "https://www.youtube.com/embed/waQqP7E2950",
+     "lat": -0.0573,
+     "lon": 109.3468,
+     "tipe": "youtube",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=pontianak-cctv-1"
+    },
     {
      "nama": "PA. PONTIANAK - KANTIN/MUSHOLA/HALAMAN PARKIR",
      "lokasi": "PA. PONTIANAK (KANTIN/MUSHOLA/HALAMAN PARKIR)",
@@ -77828,39 +75906,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-371902969436542936846570"
     },
     {
-     "nama": "PA. NEGARA - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PA. NEGARA (Kabupaten Hulu Sungai Selatan)",
-     "stream": "https://panegara-kalsel.cctvbadilag3.my.id/402571PANEGARA/play.html?name=555428091868858711592300",
-     "lat": -2.652,
-     "lon": 115.134,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-555428091868858711592300"
-    },
-    {
-     "nama": "PA. NEGARA - PTSP",
-     "lokasi": "PA. NEGARA (Kabupaten Hulu Sungai Selatan)",
-     "stream": "https://panegara-kalsel.cctvbadilag3.my.id/402571PANEGARA/play.html?name=310030150199980342779140",
-     "lat": -2.652,
-     "lon": 115.134,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-310030150199980342779140"
-    },
-    {
-     "nama": "PA. NEGARA - RUANG TUNGGU SIDANG",
-     "lokasi": "PA. NEGARA (Kabupaten Hulu Sungai Selatan)",
-     "stream": "https://panegara-kalsel.cctvbadilag3.my.id/402571PANEGARA/play.html?name=015106848867900750178525",
-     "lat": -2.652,
-     "lon": 115.134,
-     "tipe": "iframe",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-015106848867900750178525"
-    },
-    {
      "nama": "PA. PELAIHARI - KANTIN/MUSHOLA/HALAMAN PARKIR",
      "lokasi": "PA. PELAIHARI (Kabupaten Tanah Laut)",
      "stream": "https://papelaihari.cctvbadilag2.my.id/307115PAPELAIHARI/play.html?name=324156861990486661611457",
@@ -78584,6 +76629,17 @@
      "tautan": "https://cctvnusantara.com/embed?cam=banjarbaru-bundaran_stm"
     },
     {
+     "nama": "C1 POLISI SIMPANG 4",
+     "lokasi": "C1 POLISI SIMPANG 4",
+     "stream": "",
+     "lat": -3.443244,
+     "lon": 114.847268,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=banjarbaru-c1-polisi-simpang-4"
+    },
+    {
      "nama": "C2 BANJARMASIN SIMPANG 4",
      "lokasi": "C2 BANJARMASIN SIMPANG 4",
      "stream": "",
@@ -78604,17 +76660,6 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=banjarbaru-c3-ptz-simpang-4"
-    },
-    {
-     "nama": "CCTV Bola 1",
-     "lokasi": "Kota Banjarbaru, Kalimantan Selatan",
-     "stream": "",
-     "lat": -3.44124719,
-     "lon": 114.83072698,
-     "tipe": "hls",
-     "kategori": "jalan",
-     "sumber": "Diskominfo Kota Banjarbaru",
-     "tautan": "https://cctvnusantara.com/embed?cam=banjarbaru-static_lapanganbola1"
     },
     {
      "nama": "CCTV Bola 2",
@@ -78958,6 +77003,17 @@
      "tautan": "https://cctvnusantara.com/embed?cam=banjarbaru-sultan_agung_arah_banjarbaru"
     },
     {
+     "nama": "Sultan Agung Arah Banjarmasin",
+     "lokasi": "Kota Banjarbaru, Kalimantan Selatan",
+     "stream": "",
+     "lat": -3.43292588,
+     "lon": 114.68952745,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": "Diskominfo Kota Banjarbaru",
+     "tautan": "https://cctvnusantara.com/embed?cam=banjarbaru-sultan_agung_arah_banjarmasin"
+    },
+    {
      "nama": "TAMAN MINGGU RAYA",
      "lokasi": "TAMAN MINGGU RAYA",
      "stream": "",
@@ -79019,6 +77075,17 @@
      "kategori": "jalan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=atcs-bjm-jalan_a_yani_km_3"
+    },
+    {
+     "nama": "Jalan Gubernur Soebardjo Jembatan Tatah Bangkal Keluar Kota",
+     "lokasi": "Jalan Gubernur Soebardjo Jembatan Tatah Bangkal Keluar Kota",
+     "stream": "",
+     "lat": -3.3058,
+     "lon": 114.5669,
+     "tipe": "hls",
+     "kategori": "jembatan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=atcs-bjm-jalan_gubernur_soebardjo_jembatan_tatah_bangkal_keluar_kota"
     },
     {
      "nama": "Jalan Gubernur Soebardjo Jembatan Tatah Bangkal Masuk Kota",
@@ -79340,6 +77407,28 @@
      "tautan": "https://cctvnusantara.com/embed?cam=atcs-bjm-simpang_veteran_gatot"
     },
     {
+     "nama": "U-Turn A Yani KM 2",
+     "lokasi": "U-Turn A Yani KM 2",
+     "stream": "",
+     "lat": -3.3194,
+     "lon": 114.5908,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=atcs-bjm-u_turn_a_yani_km_2"
+    },
+    {
+     "nama": "U-Turn Jalan A Yani KM 5",
+     "lokasi": "U-Turn Jalan A Yani KM 5",
+     "stream": "",
+     "lat": -3.3194,
+     "lon": 114.5908,
+     "tipe": "hls",
+     "kategori": "jalan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=atcs-bjm-u_turn_jalan_a_yani_km_5"
+    },
+    {
      "nama": "U-Turn Jalan S. Parman Arah Luar Kota",
      "lokasi": "U-Turn Jalan S. Parman Arah Luar Kota",
      "stream": "",
@@ -79544,39 +77633,6 @@
      "kategori": "pengadilan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-114261535835866247954666"
-    },
-    {
-     "nama": "PA. MUARATEWEH - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PA. MUARATEWEH (Kabupaten Barito Utara)",
-     "stream": "",
-     "lat": -0.96,
-     "lon": 114.9,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-866826789092930808341017"
-    },
-    {
-     "nama": "PA. MUARATEWEH - PTSP",
-     "lokasi": "PA. MUARATEWEH (Kabupaten Barito Utara)",
-     "stream": "",
-     "lat": -0.96,
-     "lon": 114.9,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-403414771312199016488222"
-    },
-    {
-     "nama": "PA. MUARATEWEH - RUANG TUNGGU SIDANG",
-     "lokasi": "PA. MUARATEWEH (Kabupaten Barito Utara)",
-     "stream": "",
-     "lat": -0.96,
-     "lon": 114.9,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-719075857918493690589829"
     },
     {
      "nama": "PA. NANGA BULIK - KANTIN/MUSHOLA/HALAMAN PARKIR",
@@ -80698,17 +78754,6 @@
      "kategori": "pengadilan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-071879714377369575043667"
-    },
-    {
-     "nama": "Tepian Mahakam - Simpang Pasar Pagi",
-     "lokasi": "Taman Tepian Mahakam, Depan Pasar Pagi, Jl. Gajah Mada, Samarinda Kota",
-     "stream": "https://www.youtube.com/embed/KvbAoXN0Fc4",
-     "lat": -0.5028,
-     "lon": 117.1479,
-     "tipe": "youtube",
-     "kategori": "jembatan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=samarinda-cctv-9"
     }
    ]
   },
@@ -80718,28 +78763,6 @@
    "provinsi": "Kalimantan Utara",
    "sumber": "CCTV Nusantara",
    "kamera": [
-    {
-     "nama": "CCTV Kantin/Mushola/Halaman Parkir PA Tanjung Selor",
-     "lokasi": "CCTV Kantin/Mushola/Halaman Parkir PA Tanjung Selor (Kabupaten Bulungan)",
-     "stream": "",
-     "lat": 2.8427741,
-     "lon": 117.3862566,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": "bulungankab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bulungankab-kantin-parkir"
-    },
-    {
-     "nama": "CCTV Ruang Tunggu Sidang PA Tanjung Selor",
-     "lokasi": "CCTV Ruang Tunggu Sidang PA Tanjung Selor (Kabupaten Bulungan)",
-     "stream": "",
-     "lat": 2.8427741,
-     "lon": 117.3862566,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": "bulungankab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bulungankab-ruang-tunggu-sidang"
-    },
     {
      "nama": "PA. NUNUKAN - KANTIN/MUSHOLA/HALAMAN PARKIR",
      "lokasi": "PA. NUNUKAN (KANTIN/MUSHOLA/HALAMAN PARKIR)",
@@ -81114,7 +79137,7 @@
    ]
   },
   {
-   "nama": "Kabupaten Polewali Mandar",
+   "nama": "Kabupaten Majene",
    "pulau": "Sulawesi",
    "provinsi": "Sulawesi Barat",
    "sumber": "CCTV Nusantara",
@@ -81129,6 +79152,61 @@
      "kategori": "pengadilan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-316428550218657954997542"
+    },
+    {
+     "nama": "PA. MAJENE - PTSP",
+     "lokasi": "PA. MAJENE (Kabupaten Majene)",
+     "stream": "",
+     "lat": -3.543175,
+     "lon": 118.962577,
+     "tipe": "hls",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-125795460228809002332710"
+    },
+    {
+     "nama": "PA. MAJENE - RUANG TUNGGU SIDANG",
+     "lokasi": "PA. MAJENE (Kabupaten Majene)",
+     "stream": "",
+     "lat": -3.546942,
+     "lon": 118.968661,
+     "tipe": "hls",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-108969589936551379779826"
+    },
+    {
+     "nama": "PA. MAMUJU - KANTIN/MUSHOLA/HALAMAN PARKIR",
+     "lokasi": "PA. MAMUJU (Kabupaten Mamuju)",
+     "stream": "",
+     "lat": -2.674113,
+     "lon": 118.897638,
+     "tipe": "hls",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-064365339991095737435664"
+    },
+    {
+     "nama": "PA. MAMUJU - PTSP",
+     "lokasi": "PA. MAMUJU (Kabupaten Mamuju)",
+     "stream": "",
+     "lat": -2.684537,
+     "lon": 118.884419,
+     "tipe": "hls",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-505989595493485274710397"
+    },
+    {
+     "nama": "PA. MAMUJU - RUANG TUNGGU SIDANG",
+     "lokasi": "PA. MAMUJU (Kabupaten Mamuju)",
+     "stream": "",
+     "lat": -2.672945,
+     "lon": 118.882196,
+     "tipe": "hls",
+     "kategori": "pengadilan",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-760516840862340652984298"
     },
     {
      "nama": "PA. PASANGKAYU - KANTIN/MUSHOLA/HALAMAN PARKIR",
@@ -81455,28 +79533,6 @@
    "sumber": "CCTV Nusantara",
    "kamera": [
     {
-     "nama": "PA. BANTAENG - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PA. BANTAENG (Kabupaten Bantaeng)",
-     "stream": "",
-     "lat": -5.496472,
-     "lon": 119.944313,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-332341599934028856923292"
-    },
-    {
-     "nama": "PA. BANTAENG - PTSP",
-     "lokasi": "PA. BANTAENG (Kabupaten Bantaeng)",
-     "stream": "",
-     "lat": -5.484604,
-     "lon": 119.936513,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-351615946638514651053703"
-    },
-    {
      "nama": "PA. BANTAENG - RUANG TUNGGU SIDANG",
      "lokasi": "PA. BANTAENG (Kabupaten Bantaeng)",
      "stream": "https://pabantaeng.cctvbadilag3.my.id/307534PABANTAENG/play.html?name=961773359026224913953748",
@@ -81552,39 +79608,6 @@
      "kategori": "pengadilan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-682807478870742652924288"
-    },
-    {
-     "nama": "PA. ENREKANG - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PA. ENREKANG (Kabupaten Enrekang)",
-     "stream": "",
-     "lat": -3.566878,
-     "lon": 119.756219,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-915837525168881956474676"
-    },
-    {
-     "nama": "PA. ENREKANG - PTSP",
-     "lokasi": "PA. ENREKANG (Kabupaten Enrekang)",
-     "stream": "",
-     "lat": -3.563029,
-     "lon": 119.748963,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-148872375162726720661097"
-    },
-    {
-     "nama": "PA. ENREKANG - RUANG TUNGGU SIDANG",
-     "lokasi": "PA. ENREKANG (Kabupaten Enrekang)",
-     "stream": "",
-     "lat": -3.57468,
-     "lon": 119.742697,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-886258351768301258111215"
     },
     {
      "nama": "PA. JENEPONTO - KANTIN/MUSHOLA/HALAMAN PARKIR",
@@ -82191,44 +80214,11 @@
    ]
   },
   {
-   "nama": "Kabupaten Donggala",
+   "nama": "Kota Palu",
    "pulau": "Sulawesi",
    "provinsi": "Sulawesi Tengah",
    "sumber": "CCTV Nusantara",
    "kamera": [
-    {
-     "nama": "CCTV KANTIN/MUSHOLA/HALAMAN PARKIR PA Donggala",
-     "lokasi": "CCTV KANTIN/MUSHOLA/HALAMAN PARKIR PA Donggala (Kabupaten Donggala)",
-     "stream": "",
-     "lat": -0.6804307,
-     "lon": 119.7556124,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": "donggalakab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=donggalakab-kantin-mushola-halaman-parkir"
-    },
-    {
-     "nama": "CCTV PTSP PA Donggala",
-     "lokasi": "CCTV PTSP PA Donggala (Kabupaten Donggala)",
-     "stream": "",
-     "lat": -0.6804307,
-     "lon": 119.7556124,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": "donggalakab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=donggalakab-ptsp"
-    },
-    {
-     "nama": "CCTV RUANG TUNGGU SIDANG PA Donggala",
-     "lokasi": "CCTV RUANG TUNGGU SIDANG PA Donggala (Kabupaten Donggala)",
-     "stream": "",
-     "lat": -0.6804307,
-     "lon": 119.7556124,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": "donggalakab-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=donggalakab-ruang-tunggu-sidang"
-    },
     {
      "nama": "PA. AMPANA - KANTIN/MUSHOLA/HALAMAN PARKIR",
      "lokasi": "PA. AMPANA (Kabupaten Tojo Una-Una)",
@@ -82589,17 +80579,6 @@
    "provinsi": "Sulawesi Tenggara",
    "sumber": "CCTV Nusantara",
    "kamera": [
-    {
-     "nama": "CCTV KANTIN/MUSHOLA/HALAMAN PARKIR PA Rumbia",
-     "lokasi": "CCTV KANTIN/MUSHOLA/HALAMAN PARKIR PA Rumbia (Kabupaten Bombana)",
-     "stream": "",
-     "lat": -4.7151708,
-     "lon": 122.02790279999999,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": "bombana-cctv",
-     "tautan": "https://cctvnusantara.com/embed?cam=bombana-kantin-mushola-parkir"
-    },
     {
      "nama": "PA. ANDOOLO - KANTIN/MUSHOLA/HALAMAN PARKIR",
      "lokasi": "PA. ANDOOLO (Kabupaten Konawe Selatan)",
@@ -83315,7 +81294,7 @@
    ]
   },
   {
-   "nama": "Kota Manado",
+   "nama": "Kabupaten Minahasa Selatan",
    "pulau": "Sulawesi",
    "provinsi": "Sulawesi Utara",
    "sumber": "CCTV Nusantara",
@@ -83519,72 +81498,6 @@
      "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-987596953638825792277166"
     },
     {
-     "nama": "PA. MANADO - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PA. MANADO (Kota Manado)",
-     "stream": "",
-     "lat": 1.468426,
-     "lon": 124.837188,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-337287041066079406482842"
-    },
-    {
-     "nama": "PA. MANADO - PTSP",
-     "lokasi": "PA. MANADO (Kota Manado)",
-     "stream": "",
-     "lat": 1.469793,
-     "lon": 124.834597,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-399559986434933288068868"
-    },
-    {
-     "nama": "PA. MANADO - RUANG TUNGGU SIDANG",
-     "lokasi": "PA. MANADO (Kota Manado)",
-     "stream": "",
-     "lat": 1.462076,
-     "lon": 124.842203,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-157184851306889525081036"
-    },
-    {
-     "nama": "PA. TAHUNA - KANTIN/MUSHOLA/HALAMAN PARKIR",
-     "lokasi": "PA. TAHUNA (Kabupaten Kepulauan Sangihe)",
-     "stream": "",
-     "lat": 3.617482,
-     "lon": 125.485859,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-053740451940416324650610"
-    },
-    {
-     "nama": "PA. TAHUNA - PTSP",
-     "lokasi": "PA. TAHUNA (Kabupaten Kepulauan Sangihe)",
-     "stream": "",
-     "lat": 3.606351,
-     "lon": 125.478421,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-569872565498745654824677"
-    },
-    {
-     "nama": "PA. TAHUNA - RUANG TUNGGU SIDANG",
-     "lokasi": "PA. TAHUNA (Kabupaten Kepulauan Sangihe)",
-     "stream": "",
-     "lat": 3.603333,
-     "lon": 125.47249,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-646133224952106772905459"
-    },
-    {
      "nama": "PA. TONDANO - KANTIN/MUSHOLA/HALAMAN PARKIR",
      "lokasi": "PA. TONDANO (Kabupaten Minahasa)",
      "stream": "",
@@ -83680,6 +81593,17 @@
    "provinsi": "Maluku",
    "sumber": "CCTV Nusantara",
    "kamera": [
+    {
+     "nama": "CCTV Pantau Gunung Ibu - Pos PGA",
+     "lokasi": "Pos Pengamatan Gunung Api Ibu, Desa Gam Ici, Ibu",
+     "stream": "",
+     "lat": 1.488,
+     "lon": 127.63,
+     "tipe": "snapshot",
+     "kategori": "gunung",
+     "sumber": null,
+     "tautan": "https://cctvnusantara.com/embed?cam=volcano-ibu-pos-pga"
+    },
     {
      "nama": "CCTV Pantau Gunung Ibu - Tokuoko",
      "lokasi": "Stasiun Pantau Kawah Puncak Tokuoko Gunung Ibu",
@@ -83833,17 +81757,6 @@
      "kategori": "pengadilan",
      "sumber": null,
      "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-348530571471716541270888"
-    },
-    {
-     "nama": "PA. LABUHA - RUANG TUNGGU SIDANG",
-     "lokasi": "PA. LABUHA (Kabupaten Halmahera Selatan)",
-     "stream": "",
-     "lat": -0.6501,
-     "lon": 127.504,
-     "tipe": "hls",
-     "kategori": "pengadilan",
-     "sumber": null,
-     "tautan": "https://cctvnusantara.com/embed?cam=badilag-liveapp-011875463476676100708992"
     },
     {
      "nama": "PA. MASOHI - KANTIN/MUSHOLA/HALAMAN PARKIR",
